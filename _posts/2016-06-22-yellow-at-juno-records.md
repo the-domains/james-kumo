@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T12:47:47.775Z'
+datePublished: '2016-06-22T15:44:20.346Z'
 sourcePath: _posts/2016-06-22-yellow-at-juno-records.md
 isBasedOnUrl: 'http://www.juno.co.uk/products/james-kumo-yellow/589808-01/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - cat
 related: []
 author: []
-dateModified: '2016-06-22T12:46:55.485Z'
+dateModified: '2016-06-22T15:44:11.473Z'
 title: Yellow Feat Dan Curtin & Binny Remix at Juno Records
 app_links: []
 publisher:
