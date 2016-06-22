@@ -1,11 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://jameskumo.bandcamp.com'
-  name: James Kumo
-  favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
-  domain: jameskumo.bandcamp.com
+datePublished: '2016-06-22T10:34:24.751Z'
+sourcePath: _posts/2016-06-22-james-kumo.md
+isBasedOnUrl: 'https://jameskumo.bandcamp.com'
 keywords:
   - metamorphic
   - falkplatz
@@ -17,20 +13,24 @@ keywords:
   - dublin
   - curle
   - finest
+related: []
+author: []
+dateModified: '2016-06-22T10:13:08.456Z'
+title: James Kumo
+app_links: []
+publisher:
+  url: 'https://jameskumo.bandcamp.com'
+  name: James Kumo
+  favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
+  domain: jameskumo.bandcamp.com
 description: >-
-  DJ / Producer James Kumo has recorded for some of the finest underground
+  DJ, Producer James Kumo has recorded for some of the finest underground
   electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic
   recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years,
   spinning house and techno at various international clubs, including London,
   New York, Cape Town, Dublin, Manchester and more.
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://jameskumo.bandcamp.com'
-title: James Kumo
-datePublished: '2016-06-22T09:53:32.385Z'
-dateModified: '2016-06-22T07:16:08.481Z'
 starred: false
-sourcePath: _posts/2016-06-22-james-kumo.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>James Kumo</h1><p>DJ / Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle &amp; KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://f4.bcbits.com/img/a3212982279_2.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg" /><h1>James Kumo</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle &amp; KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p></article>
