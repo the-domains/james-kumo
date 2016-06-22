@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-22T15:30:10.536Z'
+datePublished: '2016-06-22T15:35:48.339Z'
 sourcePath: _posts/2016-06-22-ra-james-kumo.md
 isBasedOnUrl: 'https://www.residentadvisor.net/dj/jameskumo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-22T15:29:58.730Z'
+dateModified: '2016-06-22T15:35:44.333Z'
 title: 'RA: James Kumo'
 app_links: []
 publisher:
