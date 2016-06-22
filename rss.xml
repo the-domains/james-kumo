@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>https://thegrid.ai/james-kumo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 20:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 20:23:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/james-kumo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
+            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
+            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
+            <pubDate>Wed, 22 Jun 2016 20:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadenza Podcast]]></title>
             <description><![CDATA[<article><h1>Cadenza Podcast</h1><p>Cadenza Podcast | 223 - James Kumo (Cycle)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.ibiza-voice.com/story/news/7767</link>
             <guid isPermaLink="false">0974ff93-8890-43ac-a6ac-e57f85e81bb6</guid>
             <pubDate>Wed, 22 Jun 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Kumo on Bandcamp]]></title>
-            <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg"></article>]]></description>
-            <link>https://jameskumo.bandcamp.com</link>
-            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
-            <pubDate>Wed, 22 Jun 2016 12:47:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
