@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[James Kumo]]></title>
         <description><![CDATA[James Kumo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-kumo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 10:36:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 10:36:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-kumo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[James Kumo]]></title>
+            <description><![CDATA[<article><h1>James Kumo</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg"></article>]]></description>
+            <link>https://jameskumo.bandcamp.com</link>
+            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
+            <pubDate>Wed, 22 Jun 2016 10:36:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Cycle)]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg">]]></description>
