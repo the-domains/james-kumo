@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.juno.co.uk/products/james-kumo-yellow/589808-01/'
 title: Yellow at Juno Records
-datePublished: '2016-06-22T12:26:19.655Z'
-dateModified: '2016-06-22T12:26:19.543Z'
+datePublished: '2016-06-22T12:26:48.056Z'
+dateModified: '2016-06-22T12:25:58.558Z'
 starred: false
 sourcePath: _posts/2016-06-22-yellow-at-juno-records.md
 inFeed: true
