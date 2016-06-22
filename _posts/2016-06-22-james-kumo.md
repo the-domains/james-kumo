@@ -1,36 +1,35 @@
 ---
-datePublished: '2016-06-22T11:06:57.580Z'
-sourcePath: _posts/2016-06-22-james-kumo.md
-isBasedOnUrl: 'https://jameskumo.bandcamp.com'
-keywords:
-  - metamorphic
-  - falkplatz
-  - kumo
-  - kmusic
-  - techno
-  - aimee
-  - curtin
-  - dublin
-  - curle
-  - finest
-related: []
 author: []
-dateModified: '2016-06-22T10:37:44.761Z'
-title: James Kumo
-app_links: []
+related: []
 publisher:
-  url: 'https://jameskumo.bandcamp.com'
-  name: James Kumo
-  favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
-  domain: jameskumo.bandcamp.com
+  url: 'http://www.mixmag.net'
+  name: Mixmag
+  favicon: 'http://www.mixmag.net/favicon.ico'
+  domain: www.mixmag.net
+keywords:
+  - throbs
+  - kumo
+  - bassline
+  - analogue
+  - version
+  - airy
+  - jangly
+  - sheen
+  - cascading
+  - counteracted
 description: >-
-  DJ, Producer James Kumo has recorded for some of the finest underground
-  electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic
-  recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years,
-  spinning house and techno at various international clubs, including London,
-  New York, Cape Town, Dublin, Manchester and more.
+  Heads down moodiness from James Kumo as he throws in a nice little dub mix
+  version of 'Yellow'. The original version is way more airy and light, whereas
+  the flip takes its cue from a muted bassline which are completely counteracted
+  by a razor sharp hat.
 inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.mixmag.net/read/james-kumo-reviews'
+title: James Kumo
+datePublished: '2016-06-22T12:44:23.503Z'
+dateModified: '2016-06-22T12:41:55.959Z'
 starred: false
+sourcePath: _posts/2016-06-22-james-kumo.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg" /><h1>James Kumo</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle &amp; KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p></article>
+<article style=""><h1>James Kumo</h1><p>Heads down moodiness from James Kumo as he throws in a nice little dub mix version of 'Yellow'. The original version is way more airy and light, whereas the flip takes its cue from a muted bassline which are completely counteracted by a razor sharp hat.</p><img src="http://www.mixmag.net/assets/uploads/images/_facebook/James-Yellow.jpg" /></article>
