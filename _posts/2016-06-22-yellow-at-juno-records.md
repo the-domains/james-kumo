@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T20:14:43.565Z'
+datePublished: '2016-06-22T20:35:07.162Z'
 sourcePath: _posts/2016-06-22-yellow-at-juno-records.md
 isBasedOnUrl: 'http://www.juno.co.uk/products/james-kumo-yellow/589808-01/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - cat
 related: []
 author: []
-dateModified: '2016-06-22T20:10:27.206Z'
+dateModified: '2016-06-22T20:25:04.393Z'
 title: James Kumo “Yellow” (Incl Dan Curtin & Binny Remixes) KMusic
 app_links: []
 publisher:
@@ -63,30 +63,17 @@ Brett Johnson (Classic) - "Nice release, feeling the org. and Dan's mix. Thanks"
 
 Mr G (Rekids) - "nice"
 
-Brendon Moeller (Beatpharmacy / Wave / Various) - "awesome release. my fave kumo release to date!"
-
-Setaoc Mass (Work Them Records, SK\_eleven, Animal Farm Records, Initial Berlin) - "Classy Binny remix as always."
-
-Eric Cloutier (The Bunker NYC) - "that binny mix, yo! damn!"
-
-Santiago Salazar (DJ S2) - "Yellow (Dub Mix) and Curtin's remix are great! Thanks!"
-
 [Vince Watson][0] Bedrock / Cocoon / Ovum / Planet E / Poker Flat / Yoruba) (Amsterdam) -- "Cracking release this....defo support on some of these for my 313 mix sessions _:)_
 
 Matrixmann (Dekmantel / Ghostly) (San Francisco) -- "Beautiful work."
 
 [2000 and One][1] (Amsterdam) - "Cool Deep Detroit Dub in here."
 
-Ben Sims - "digging the binny mix the most".
-
 [Truncate][2]/Audio Injection (Truncate) (Los Angeles) -- "Great stuff!"
 
 [Dj Deep][3] (Deeply Rooted House) (Paris) -- "very nice tracks"
-
-[Jonas Kopp][4] (Traut / Manzel) (Berlin)- "great one! thanks."
 
 [0]: https://www.facebook.com/vincewatsonmusic/
 [1]: https://www.facebook.com/dj2000andone/
 [2]: https://www.facebook.com/Truncate.LA/
 [3]: https://www.facebook.com/officialdjdeep/
-[4]: https://www.facebook.com/JonasKoppMusic/
