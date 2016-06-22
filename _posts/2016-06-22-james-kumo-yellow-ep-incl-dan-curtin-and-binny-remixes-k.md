@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T15:28:26.219Z'
+datePublished: '2016-06-22T15:30:12.694Z'
 sourcePath: _posts/2016-06-22-james-kumo-yellow-ep-incl-dan-curtin-and-binny-remixes-k.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=isI1AUroY4M'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: KMusicRecs
     url: 'https://www.youtube.com/user/KMusicRecs'
     avatar: {}
-dateModified: '2016-06-22T15:27:31.133Z'
+dateModified: '2016-06-22T15:28:38.477Z'
 title: Yellow EP (Incl Dan Curtin & Binny Remixes) - Video
 app_links: []
 publisher:
@@ -17,13 +17,8 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: >-
-  Buy NOW at Juno http://www.juno.co.uk/products/james-kumo-yellow/589808-01/ 1.
-  Yellow (Original Mix) 2. Yellow (Dub Mix) 3. Yellow (Dan Curtin Remix) 4.
-  Yellow (Binny Remix) Buy NOW at Juno
-  http://www.juno.co.uk/products/james-kumo-yellow/589808-01/ Follow Music on
-  Facebook: https://www.facebook.com/KMusic-164835130238387/?ref=hl What some
-  DJ's are saying about the release: François Kevorkian (Wavemusic/Deep Space
-  NYC) - "Loving the original and Dan Curtin remix!"
+  What some DJ's are saying about the release: François Kevorkian
+  (Wavemusic/Deep Space NYC) - "Loving the original and Dan Curtin remix!"
 starred: false
 inFeed: true
 hasPage: false
