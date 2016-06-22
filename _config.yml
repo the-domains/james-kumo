@@ -1,14 +1,14 @@
-layout_spectrum: 0.1652625489514321
-typography_spectrum: 0.6344961815048009
+layout_spectrum: 0.6415477057453245
+typography_spectrum: 0.18354813801124692
 color:
-  brandStrength: 0.9175958405248821
-  lightness: 0.2732234690338373
-  saturation: 0.20382704841904342
-  rhythmicContrast: 0.07426038011908531
+  brandStrength: 0.5464709703810513
+  lightness: 0.7786238119006157
+  saturation: 0.4927789082285017
+  rhythmicContrast: 0.8092435491271317
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 name: James Kumo
