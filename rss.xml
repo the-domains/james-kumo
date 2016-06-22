@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>https://thegrid.ai/james-kumo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 20:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 20:35:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/james-kumo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marcel Dettmann plays Tunnel Vision at Richie Hawtin’s ENTER]]></title>
+            <description><![CDATA[<article><h1>Marcel Dettmann plays Tunnel Vision at Richie Hawtin’s ENTER</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/368ae55102102f7b5b6220f6a7587c8e/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FrfiMK_ujgDY%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/rfiMK_ujgDY</link>
+            <guid isPermaLink="false">506e4136-1aa5-409d-95cd-37af5dacc012</guid>
+            <pubDate>Wed, 22 Jun 2016 20:34:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.mixmag.net/read/james-kumo-reviews</link>
             <guid isPermaLink="false">8955ebe7-4e21-4969-b068-b6871b39060d</guid>
             <pubDate>Wed, 22 Jun 2016 15:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ibiza Voice - Interview]]></title>
-            <description><![CDATA[<article><h1>Ibiza Voice - Interview</h1><p>In The Groove with KMusic - Interview with label owner James Kumo - I Voice Hype, Lies & Gossip</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aea6fde3b663c90b93b4250e741e0832/noop.jpg?input=http%3A%2F%2Fwww.ibiza-voice.com%2Fmedia%2Fnews%2F015%2Fkmusic%2FJames_Kumo.jpg"></article>]]></description>
-            <link>http://www.ibiza-voice.com/story/news/7767</link>
-            <guid isPermaLink="false">0974ff93-8890-43ac-a6ac-e57f85e81bb6</guid>
-            <pubDate>Wed, 22 Jun 2016 15:44:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
