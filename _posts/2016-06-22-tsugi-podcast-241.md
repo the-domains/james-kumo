@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-06-22T16:57:24.382Z'
+datePublished: '2016-06-22T20:02:41.949Z'
+sourcePath: _posts/2016-06-22-tsugi-podcast-241.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-tsugi-podcast'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-22T16:56:45.274Z'
-title: Tsugi Podcast 241
+dateModified: '2016-06-22T19:49:01.109Z'
+title: Tsugi Magazine Paris Podcast
 app_links:
   - type: ios
     namespace: ai
@@ -49,10 +50,10 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: >-
-  Podcast featuring music from Maceo Plex, James Kumo Shonky, Dan Ghenacia, The
-  Heels Of Love, Federico Gandin, Bonar Bradberry, Todd Terje...and more.
+  Podcast mixed and recorded for Paris based Tsugi magazine, featuring music
+  from Maceo Plex, Shonky, Dan Ghenacia, The Heels Of Love, Federico Gandin,
+  Bonar Bradberry, Todd Terje...and more.
 starred: false
-sourcePath: _posts/2016-06-22-tsugi-podcast-241.md
 inFeed: true
 hasPage: false
 inNav: false
