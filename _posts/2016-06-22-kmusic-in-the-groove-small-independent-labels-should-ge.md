@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T13:58:20.674Z'
+datePublished: '2016-06-22T15:44:17.829Z'
 sourcePath: _posts/2016-06-22-kmusic-in-the-groove-small-independent-labels-should-ge.md
 isBasedOnUrl: 'http://www.ibiza-voice.com/story/news/7767'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - manchester
 related: []
 author: []
-dateModified: '2016-06-22T13:58:17.729Z'
+dateModified: '2016-06-22T15:43:29.811Z'
 title: Ibiza Voice - Interview
 app_links: []
 publisher:
