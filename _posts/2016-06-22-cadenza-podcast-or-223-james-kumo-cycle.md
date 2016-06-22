@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T12:47:48.972Z'
+datePublished: '2016-06-22T13:03:48.351Z'
 sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-cycle.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - housejames
 related: []
 author: []
-dateModified: '2016-06-22T12:43:15.480Z'
+dateModified: '2016-06-22T13:02:49.950Z'
 title: ''
 app_links:
   - type: android
