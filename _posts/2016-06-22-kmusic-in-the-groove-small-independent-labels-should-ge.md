@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T15:44:17.829Z'
+datePublished: '2016-06-23T11:27:57.547Z'
 sourcePath: _posts/2016-06-22-kmusic-in-the-groove-small-independent-labels-should-ge.md
 isBasedOnUrl: 'http://www.ibiza-voice.com/story/news/7767'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - manchester
 related: []
 author: []
-dateModified: '2016-06-22T15:43:29.811Z'
+dateModified: '2016-06-23T11:27:57.129Z'
 title: Ibiza Voice - Interview
 app_links: []
 publisher:
@@ -27,7 +27,7 @@ description: >-
   In The Groove with KMusic - Interview with label owner James Kumo - I Voice
   Hype, Lies & Gossip
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
