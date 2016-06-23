@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 16:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 20:01:28 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mixmag Review of Yellow (Dub Mix) ]]></title>
@@ -42,18 +42,25 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RA: James Kumo]]></title>
-            <description><![CDATA[<article><h1>RA: James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
-            <link>https://www.residentadvisor.net/dj/jameskumo</link>
-            <guid isPermaLink="false">1bd2822c-9bb9-4dd6-9067-2da52f9a7258</guid>
-            <pubDate>Thu, 23 Jun 2016 16:02:57 GMT</pubDate>
+            <title><![CDATA[James Kumo on Bandcamp]]></title>
+            <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg"></article>]]></description>
+            <link>https://jameskumo.bandcamp.com</link>
+            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
+            <pubDate>Thu, 23 Jun 2016 20:01:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My choice of studio phones...PHONON 4000’s]]></title>
             <description><![CDATA[<article><h1>My choice of studio phones...PHONON 4000’s</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e400a957e91550003856326d6d1cd856/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCkxqlfOWUAACFdR.jpg%3Alarge"></article>]]></description>
             <link>https://pbs.twimg.com/media/CkxqlfOWUAACFdR.jpg:large</link>
             <guid isPermaLink="false">f06da0ba-03aa-46c6-a724-1ff25eeb8231</guid>
-            <pubDate>Thu, 23 Jun 2016 15:50:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2016 20:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RA: James Kumo]]></title>
+            <description><![CDATA[<article><h1>RA: James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
+            <link>https://www.residentadvisor.net/dj/jameskumo</link>
+            <guid isPermaLink="false">1bd2822c-9bb9-4dd6-9067-2da52f9a7258</guid>
+            <pubDate>Thu, 23 Jun 2016 16:02:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yellow Including Dan Curtin & Binny Remix at Juno Records]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/james-kumo/james-kumo-tsugi-podcast</link>
             <guid isPermaLink="false">1f3c0348-840e-4d9b-83c9-470237207081</guid>
             <pubDate>Thu, 23 Jun 2016 11:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
-            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
-            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
-            <pubDate>Thu, 23 Jun 2016 11:25:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
