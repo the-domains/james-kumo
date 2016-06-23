@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T11:26:17.792Z'
+datePublished: '2016-06-23T12:14:58.851Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'http://www.mixmag.net/read/james-kumo-reviews'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - counteracted
 related: []
 author: []
-dateModified: '2016-06-23T11:26:17.505Z'
+dateModified: '2016-06-23T12:12:45.068Z'
 title: 'Mixmag Review of Yellow (Dub Mix) '
 app_links: []
 publisher:
