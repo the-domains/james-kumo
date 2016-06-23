@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-06-23T15:50:20.735Z'
+datePublished: '2016-06-23T20:00:57.157Z'
+sourcePath: _posts/2016-06-23-my-choice-of-studio-phonesphonon-4000s.md
 isBasedOnUrl: 'https://pbs.twimg.com/media/CkxqlfOWUAACFdR.jpg:large'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-23T15:50:20.577Z'
+dateModified: '2016-06-23T19:59:38.360Z'
 title: My choice of studio phones...PHONON 4000’s
 app_links: []
 publisher:
@@ -14,7 +15,6 @@ publisher:
   domain: pbs.twimg.com
 description: ''
 starred: false
-sourcePath: _posts/2016-06-23-my-choice-of-studio-phonesphonon-4000s.md
 inFeed: true
 hasPage: false
 inNav: false
