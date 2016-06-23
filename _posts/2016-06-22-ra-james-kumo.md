@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-22T20:03:03.758Z'
+datePublished: '2016-06-23T11:25:12.968Z'
 sourcePath: _posts/2016-06-22-ra-james-kumo.md
 isBasedOnUrl: 'https://www.residentadvisor.net/dj/jameskumo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-22T19:50:54.318Z'
+dateModified: '2016-06-23T11:25:12.679Z'
 title: 'RA: James Kumo'
 app_links: []
 publisher:
@@ -14,7 +14,7 @@ publisher:
   favicon: 'https://www.residentadvisor.net/favicon.ico'
   domain: www.residentadvisor.net
 description: 'RA: Resident Advisor'
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -22,4 +22,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![James Kumo Artist Page  - Resident Advisor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8684ed2c-8a95-466f-90c1-c82157211378.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png)
