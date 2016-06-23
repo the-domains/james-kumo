@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T20:35:09.434Z'
+datePublished: '2016-06-23T11:25:39.821Z'
 sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-cycle.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - housejames
 related: []
 author: []
-dateModified: '2016-06-22T20:22:45.792Z'
+dateModified: '2016-06-23T11:25:39.431Z'
 title: ''
 app_links:
   - type: android
@@ -56,7 +56,7 @@ publisher:
   domain: www.mixcloud.com
 description: 'Cadenza Podcast | 223 - Techno, Tech House'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
