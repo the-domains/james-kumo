@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T11:25:43.464Z'
+datePublished: '2016-06-23T11:25:57.525Z'
 sourcePath: _posts/2016-06-22-yellow-at-juno-records.md
 isBasedOnUrl: 'http://www.juno.co.uk/products/james-kumo-yellow/589808-01/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - cat
 related: []
 author: []
-dateModified: '2016-06-23T11:25:43.169Z'
+dateModified: '2016-06-23T11:25:56.960Z'
 title: James Kumo “Yellow” (Incl Dan Curtin & Binny Remixes) KMusic
 app_links: []
 publisher:
@@ -39,7 +39,7 @@ description: >-
   Injection (Truncate) (Los Angeles) – “Great stuff!”DJ Deep (Deeply Rooted
   House) (Paris) – “very nice tracks”
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
