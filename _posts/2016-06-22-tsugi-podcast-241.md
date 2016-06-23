@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-22T20:02:41.949Z'
+datePublished: '2016-06-23T11:25:11.942Z'
 sourcePath: _posts/2016-06-22-tsugi-podcast-241.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-tsugi-podcast'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-22T19:49:01.109Z'
+dateModified: '2016-06-23T11:25:11.518Z'
 title: Tsugi Magazine Paris Podcast
 app_links:
   - type: ios
@@ -53,7 +53,7 @@ description: >-
   Podcast mixed and recorded for Paris based Tsugi magazine, featuring music
   from Maceo Plex, Shonky, Dan Ghenacia, The Heels Of Love, Federico Gandin,
   Bonar Bradberry, Todd Terje...and more.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
