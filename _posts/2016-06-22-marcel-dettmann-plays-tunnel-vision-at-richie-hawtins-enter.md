@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T10:43:22.363Z'
+datePublished: '2016-06-23T10:43:22.372Z'
 sourcePath: >-
   _posts/2016-06-22-marcel-dettmann-plays-tunnel-vision-at-richie-hawtins-enter.md
 isBasedOnUrl: 'https://youtu.be/rfiMK_ujgDY'
