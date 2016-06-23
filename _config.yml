@@ -1,4 +1,3 @@
-layout_spectrum: 0.6415477057453245
 typography_spectrum: 0.18354813801124692
 color:
   brandStrength: 0.5464709703810513
@@ -11,5 +10,8 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+layout_spectrum: 0.6415477057453245
+analytics:
+  google: UA-79787653-1
 name: James Kumo
 title: ''
