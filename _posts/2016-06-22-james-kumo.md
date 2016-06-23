@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T11:25:47.459Z'
+datePublished: '2016-06-23T11:25:55.896Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'http://www.mixmag.net/read/james-kumo-reviews'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - counteracted
 related: []
 author: []
-dateModified: '2016-06-23T11:25:46.705Z'
+dateModified: '2016-06-23T11:25:55.442Z'
 title: 'Mixmag Review of Yellow (Dub Mix) '
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ description: >-
   the flip takes its cue from a muted bassline which are completely counteracted
   by a razor sharp hat.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
