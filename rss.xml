@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 21:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 21:32:25 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On & On, by James Kumo]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c60576a-806d-452e-ae1e-23f01b41f046.jpg">]]></description>
+            <link>https://jameskumo.bandcamp.com/track/on-on</link>
+            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
+            <pubDate>Thu, 23 Jun 2016 21:32:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadenza Podcast]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg" alt="Cadenza Podcast | 223 - Techno, Tech House">]]></description>
@@ -47,13 +54,6 @@
             <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
             <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
             <pubDate>Thu, 23 Jun 2016 21:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On & On, by James Kumo]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c60576a-806d-452e-ae1e-23f01b41f046.jpg">]]></description>
-            <link>https://jameskumo.bandcamp.com/track/on-on</link>
-            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
-            <pubDate>Thu, 23 Jun 2016 21:17:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KMusic Podcast #1]]></title>
