@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T20:01:02.749Z'
+datePublished: '2016-06-23T20:05:24.185Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - finest
 related: []
 author: []
-dateModified: '2016-06-23T20:00:48.947Z'
+dateModified: '2016-06-23T20:05:13.242Z'
 title: James Kumo on Bandcamp
 app_links: []
 publisher:
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1649585635b1b1fdc4d67410584079fa/noop.jpg?input=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3212982279_2.jpg" /><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle &amp; KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p></article>
+![DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg)
