@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 21:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 21:26:24 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cadenza Podcast]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
+            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
+            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
+            <pubDate>Thu, 23 Jun 2016 21:25:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c60576a-806d-452e-ae1e-23f01b41f046.jpg">]]></description>
             <link>https://jameskumo.bandcamp.com/track/on-on</link>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/my-choice-of-studio-phonesphonon-4000s/index.html</link>
             <guid isPermaLink="false">f45bef75-5ada-4e76-876c-df86fcd28176</guid>
             <pubDate>Thu, 23 Jun 2016 20:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Kumo on Bandcamp]]></title>
-            <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg"></article>]]></description>
-            <link>https://jameskumo.bandcamp.com</link>
-            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
-            <pubDate>Thu, 23 Jun 2016 20:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
