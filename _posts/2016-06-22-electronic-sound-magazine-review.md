@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-23T11:25:16.526Z'
+datePublished: '2016-06-23T11:25:20.858Z'
 author: []
-dateModified: '2016-06-23T11:25:15.930Z'
+dateModified: '2016-06-23T11:25:20.452Z'
 title: ''
 description: Electronic Sound Magazine Review
 sourcePath: _posts/2016-06-22-electronic-sound-magazine-review.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
