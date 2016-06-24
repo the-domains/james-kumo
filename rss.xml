@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:31:36 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cadenza Podcast]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg" alt="Cadenza Podcast | 223 - Techno, Tech House">]]></description>
+            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/</link>
+            <guid isPermaLink="false">f09a45a1-6f60-4f29-b93a-5bdfd66f3208</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[James Kumo on Bandcamp]]></title>
             <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://jameskumo.bandcamp.com/track/on-on</link>
             <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
             <pubDate>Fri, 24 Jun 2016 13:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cadenza Podcast]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg" alt="Cadenza Podcast | 223 - Techno, Tech House">]]></description>
-            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/</link>
-            <guid isPermaLink="false">f09a45a1-6f60-4f29-b93a-5bdfd66f3208</guid>
-            <pubDate>Thu, 23 Jun 2016 21:25:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mixmag Review of Yellow (Dub Mix) ]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
+            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
+            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Worldwide DJ Bookings, contact Fred on info(at)deep-art.net]]></title>
             <description><![CDATA[<article><h1>Worldwide DJ Bookings, contact Fred on info(at)deep-art.net</h1><p>Electronic Music Agency</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d4564b9-cea6-4a45-b087-fa4529700de8.jpg"></article>]]></description>
             <link>http://jameskumo.com/worldwide-dj-bookings-contact-fred-on-infoatdeep-artnet/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/my-choice-of-studio-phonesphonon-4000s/index.html</link>
             <guid isPermaLink="false">f45bef75-5ada-4e76-876c-df86fcd28176</guid>
             <pubDate>Fri, 24 Jun 2016 13:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yellow EP (Incl Dan Curtin & Binny Remixes) - Video]]></title>
-            <description><![CDATA[<article><h1>Yellow EP (Incl Dan Curtin & Binny Remixes) - Video</h1><p>Supported by François Kevorkian, Laurent Garnier, DJ Rolando, Radio Slave, Osunlade, Orde Meikle, Danny Howells, Mr G,  Honey Dijon...and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/154c2f03d6b0e4146f720efdf85d7f31/croprotate.jpg?cropheight=281&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FisI1AUroY4M%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=isI1AUroY4M</link>
-            <guid isPermaLink="false">60234bd7-2b0e-424b-aa28-60c91a3d1bf6</guid>
-            <pubDate>Fri, 24 Jun 2016 13:29:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
