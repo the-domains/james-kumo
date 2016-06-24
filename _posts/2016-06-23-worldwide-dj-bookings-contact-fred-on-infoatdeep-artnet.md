@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-24T13:29:22.253Z'
+datePublished: '2016-06-24T14:02:22.407Z'
 sourcePath: _posts/2016-06-23-worldwide-dj-bookings-contact-fred-on-infoatdeep-artnet.md
 author: []
-dateModified: '2016-06-24T13:29:11.130Z'
+dateModified: '2016-06-24T13:33:18.289Z'
 title: 'Worldwide DJ Bookings, contact Fred on info(at)deep-art.net'
-description: 'Worldwide DJ Bookings, contact Fred on '
+description: 'Electronic Music Agency '
 starred: false
 inFeed: true
 hasPage: true
@@ -14,6 +14,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d4564b9-cea6-4a45-b087-fa4529700de8.jpg)
+![Electronic Music Agency ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d4564b9-cea6-4a45-b087-fa4529700de8.jpg)
 
 # Worldwide DJ Bookings, contact Fred on **info(at)deep-art.net**
