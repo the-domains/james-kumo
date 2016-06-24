@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:28:02 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Thu, 23 Jun 2016 16:00:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ibiza Voice - Interview]]></title>
+            <description><![CDATA[<article><h1>Ibiza Voice - Interview</h1><p>In The Groove with KMusic - Interview with label owner James Kumo - I Voice Hype, Lies & Gossip</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aea6fde3b663c90b93b4250e741e0832/noop.jpg?input=http%3A%2F%2Fwww.ibiza-voice.com%2Fmedia%2Fnews%2F015%2Fkmusic%2FJames_Kumo.jpg"></article>]]></description>
+            <link>http://www.ibiza-voice.com/story/news/7767</link>
+            <guid isPermaLink="false">0974ff93-8890-43ac-a6ac-e57f85e81bb6</guid>
+            <pubDate>Fri, 24 Jun 2016 18:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Resident Advisor Artist Page For James Kumo]]></title>
             <description><![CDATA[<article><h1>Resident Advisor Artist Page For James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
             <link>https://www.residentadvisor.net/dj/jameskumo</link>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=isI1AUroY4M</link>
             <guid isPermaLink="false">a242e1de-f7f5-4fed-a7ae-dc9914432ec8</guid>
             <pubDate>Fri, 24 Jun 2016 18:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
-            <pubDate>Fri, 24 Jun 2016 18:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
