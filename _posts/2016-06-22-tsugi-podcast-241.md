@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-24T17:43:53.390Z'
+datePublished: '2016-06-24T17:46:34.604Z'
 sourcePath: _posts/2016-06-22-tsugi-podcast-241.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-tsugi-podcast'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-24T17:43:53.277Z'
+dateModified: '2016-06-24T17:46:34.491Z'
 title: Tsugi Magazine Paris Podcast
 app_links:
   - type: ios
