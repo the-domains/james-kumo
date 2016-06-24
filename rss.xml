@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:19:01 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg">]]></description>
+            <link>http://jameskumo.com/86b82d16-f6e4-43e4-8da5-ce91149818e6/index.html</link>
+            <guid isPermaLink="false">86b82d16-f6e4-43e4-8da5-ce91149818e6</guid>
+            <pubDate>Fri, 24 Jun 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My Electronic Soul Remix]]></title>
             <description><![CDATA[<article><h1>My Electronic Soul Remix</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f4672d-e26d-4225-bb18-5b4645eef35c.jpg"></article>]]></description>
             <link>http://jameskumo.com/my-electronic-soul-remix/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/electronic-sound-magazine-review/index.html</link>
             <guid isPermaLink="false">31450f48-9d40-4718-92ee-a2401bc21b7b</guid>
             <pubDate>Fri, 24 Jun 2016 17:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falkplatz Records Berlin Podcast]]></title>
-            <description><![CDATA[<article><h1>Falkplatz Records Berlin Podcast</h1><p>Podcast mixed and recorded for Berlin based Falkplatz, featuring musicLeonid Nevermind, Quantec, Peter Dundov, David Hausdorf, Martin Buttrich...and more.</p></article>]]></description>
-            <link>https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice</link>
-            <guid isPermaLink="false">35e1fa86-232e-46c8-9fcd-99c518092947</guid>
-            <pubDate>Fri, 24 Jun 2016 17:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
