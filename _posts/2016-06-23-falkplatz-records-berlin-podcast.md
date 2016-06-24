@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-23T20:49:49.477Z'
+datePublished: '2016-06-24T13:21:39.636Z'
+sourcePath: _posts/2016-06-23-falkplatz-records-berlin-podcast.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: James Kumo
     url: 'http://soundcloud.com/james-kumo'
     avatar: {}
-dateModified: '2016-06-23T20:49:20.156Z'
+dateModified: '2016-06-24T13:21:25.459Z'
 title: Falkplatz Records Berlin Podcast
 app_links:
   - type: ios
@@ -52,12 +53,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: >-
-  Special Falkplatz podcast, for Noice! Aired 10.07.2011 1. Leonid Nevermind -
-  Light Is Here - Mowar 2. Quantec - My Safe Harbour - Echocord 3. Peter Dundov
-  - Distant Shores - Musicman 4. David Hausdorf - Untitled - [K:Music] 5. Martin
-  Buttrich - Full Clip (Kirk Degiorgio Remix) - Planet E 6.
+  Special Falkplatz podcast, featuring music from Leonid Nevermind, Quantec,
+  Peter Dundov, David Hausdorf, Martin Buttrich...and more.
 starred: false
-sourcePath: _posts/2016-06-23-falkplatz-records-berlin-podcast.md
 inFeed: true
 hasPage: false
 inNav: false
