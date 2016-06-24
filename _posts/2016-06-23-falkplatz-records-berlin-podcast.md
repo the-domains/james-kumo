@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T18:33:17.773Z'
+datePublished: '2016-06-24T18:36:41.098Z'
 sourcePath: _posts/2016-06-23-falkplatz-records-berlin-podcast.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: James Kumo
     url: 'http://soundcloud.com/james-kumo'
     avatar: {}
-dateModified: '2016-06-24T18:32:50.441Z'
+dateModified: '2016-06-24T18:36:40.513Z'
 title: Falkplatz Records Berlin Podcast
 app_links:
   - type: ios
@@ -55,7 +55,7 @@ publisher:
 description: >-
   Podcast mixed and recorded for Berlin based Falkplatz, featuring musicLeonid
   Nevermind, Quantec, Peter Dundov, David Hausdorf, Martin Buttrich...and more.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
