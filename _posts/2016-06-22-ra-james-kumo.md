@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-24T17:46:50.946Z'
+datePublished: '2016-06-24T17:50:24.631Z'
 sourcePath: _posts/2016-06-22-ra-james-kumo.md
 isBasedOnUrl: 'https://www.residentadvisor.net/dj/jameskumo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-24T17:46:50.729Z'
+dateModified: '2016-06-24T17:42:57.807Z'
 title: Resident Advisor Artist Page For James Kumo
 app_links: []
 publisher:
