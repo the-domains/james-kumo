@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:24:36 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
@@ -12,6 +12,13 @@
             <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
             <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
             <pubDate>Fri, 24 Jun 2016 18:23:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg">]]></description>
+            <link>http://jameskumo.com/86b82d16-f6e4-43e4-8da5-ce91149818e6/index.html</link>
+            <guid isPermaLink="false">86b82d16-f6e4-43e4-8da5-ce91149818e6</guid>
+            <pubDate>Fri, 24 Jun 2016 18:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +68,6 @@
             <link>https://youtu.be/rfiMK_ujgDY</link>
             <guid isPermaLink="false">506e4136-1aa5-409d-95cd-37af5dacc012</guid>
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg">]]></description>
-            <link>http://jameskumo.com/86b82d16-f6e4-43e4-8da5-ce91149818e6/index.html</link>
-            <guid isPermaLink="false">86b82d16-f6e4-43e4-8da5-ce91149818e6</guid>
-            <pubDate>Fri, 24 Jun 2016 18:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KMusic Vol1 Artwork]]></title>
