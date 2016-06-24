@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-23T11:25:20.858Z'
-author: []
-dateModified: '2016-06-23T11:25:20.452Z'
-title: ''
-description: Electronic Sound Magazine Review
+datePublished: '2016-06-24T14:02:28.785Z'
 sourcePath: _posts/2016-06-22-electronic-sound-magazine-review.md
+author: []
+dateModified: '2016-06-24T13:33:59.744Z'
+title: Electronic Sound Magazine Review
+description: ''
 starred: false
 inFeed: true
 hasPage: true
@@ -14,4 +14,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Electronic Sound Magazine Review](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg)
+
+## Electronic Sound Magazine Review
