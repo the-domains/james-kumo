@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:27:35 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tsugi Magazine Paris Podcast]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Fri, 24 Jun 2016 18:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
-            <pubDate>Fri, 24 Jun 2016 18:23:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg">]]></description>
             <link>https://jameskumo.bandcamp.com/track/on-on</link>
@@ -68,6 +61,13 @@
             <link>http://www.mixmag.net/read/james-kumo-reviews</link>
             <guid isPermaLink="false">8955ebe7-4e21-4969-b068-b6871b39060d</guid>
             <pubDate>Thu, 23 Jun 2016 16:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
+            <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
+            <pubDate>Fri, 24 Jun 2016 18:27:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
