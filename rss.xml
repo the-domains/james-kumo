@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:19:36 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
@@ -50,6 +50,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f04561dd-44e3-44df-88fd-ec2c74575cc8.jpg">]]></description>
+            <link>http://jameskumo.com/00bdae91-227f-4935-b7bd-f5681adf8ef5/index.html</link>
+            <guid isPermaLink="false">00bdae91-227f-4935-b7bd-f5681adf8ef5</guid>
+            <pubDate>Fri, 24 Jun 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8586ba7e-9f92-483f-91a9-6780f6ffe33a.jpg">]]></description>
             <link>http://jameskumo.com/3d0a0884-1c64-4c23-acd6-420283d9bdb1/index.html</link>
             <guid isPermaLink="false">3d0a0884-1c64-4c23-acd6-420283d9bdb1</guid>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/my-electronic-soul-remix/index.html</link>
             <guid isPermaLink="false">8b992ec0-748c-462a-974e-f5423e5204fa</guid>
             <pubDate>Fri, 24 Jun 2016 18:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
-            <pubDate>Fri, 24 Jun 2016 18:10:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
