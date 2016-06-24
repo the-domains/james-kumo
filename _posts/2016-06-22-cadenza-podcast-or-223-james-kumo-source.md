@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T14:25:34.700Z'
+datePublished: '2016-06-24T17:43:46.118Z'
 sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-source.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - falkplatz
 related: []
 author: []
-dateModified: '2016-06-24T14:25:25.802Z'
+dateModified: '2016-06-24T17:43:45.909Z'
 title: ''
 app_links:
   - type: android
@@ -56,7 +56,7 @@ publisher:
   domain: www.mixcloud.com
 description: >-
   Tracks by Azoto, Bonny Oliver, Kathy Diamond, Carly Simon, Galaxy 2 Galaxy,
-  Class Action, Roy Ayers, Whitney Houston, Maurizio...and more.
+  Class Action, Roy Ayers...and more.
 inLanguage: en
 starred: false
 inFeed: true
@@ -70,4 +70,4 @@ _type: MediaObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.mixcloud.com%2Fwidget%2Fiframe%2F%3Ffeed%3Dhttps%253A%252F%252Fwww.mixcloud.com%252FCadenzaMusic%252Fcadenza-podcast-223-james-kumo-source%252F%26hide_cover%3D1&amp;url=https%3A%2F%2Fwww.mixcloud.com%2FCadenzaMusic%2Fcadenza-podcast-223-james-kumo-source%2F&amp;image=https%3A%2F%2Fthumbnailer.mixcloud.com%2Funsafe%2F600x600%2Ffilters%3Awatermark%28graphics%2Fplay-button-scaled.png%2C0%2C0%2C0%29%2Fextaudio%2Ff%2F4%2Fd%2F7%2F59a4-5124-43ab-b680-72899cbe2a95&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=mixcloud" width="None" height="120" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-Tracks by Azoto, Bonny Oliver, Kathy Diamond, Carly Simon, Galaxy 2 Galaxy, Class Action, Roy Ayers, Whitney Houston, Maurizio...and more.
+Tracks by Azoto, Bonny Oliver, Kathy Diamond, Carly Simon, Galaxy 2 Galaxy, Class Action, Roy Ayers...and more.
