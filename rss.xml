@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:10:50 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
+            <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
+            <pubDate>Fri, 24 Jun 2016 18:10:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Electronic Sound Magazine Review]]></title>
             <description><![CDATA[<article><h1>Electronic Sound Magazine Review</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg"></article>]]></description>
             <link>http://jameskumo.com/electronic-sound-magazine-review/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://www.residentadvisor.net/dj/jameskumo</link>
             <guid isPermaLink="false">851117ac-7c12-4ea3-a614-c661c015cc9c</guid>
             <pubDate>Fri, 24 Jun 2016 17:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tracks by Azoto, Bonny Oliver, Kathy Diamond, Carly Simon, Galaxy 2 Galaxy, Class Action, Roy Ayers...and more.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
-            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
-            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
-            <pubDate>Fri, 24 Jun 2016 17:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
