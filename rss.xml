@@ -7,20 +7,6 @@
         <lastBuildDate>Fri, 24 Jun 2016 18:24:35 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Yellow EP (Incl Dan Curtin & Binny Remixes)]]></title>
-            <description><![CDATA[<article><h1>Yellow EP (Incl Dan Curtin & Binny Remixes)</h1><p>Supported by François Kevorkian, Laurent Garnier, DJ Rolando, Radio Slave, Osunlade, Orde Meikle, Danny Howells, Mr G,  Honey Dijon...and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/154c2f03d6b0e4146f720efdf85d7f31/croprotate.jpg?cropheight=281&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FisI1AUroY4M%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=isI1AUroY4M</link>
-            <guid isPermaLink="false">a242e1de-f7f5-4fed-a7ae-dc9914432ec8</guid>
-            <pubDate>Fri, 24 Jun 2016 18:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resident Advisor Artist Page For James Kumo]]></title>
-            <description><![CDATA[<article><h1>Resident Advisor Artist Page For James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
-            <link>https://www.residentadvisor.net/dj/jameskumo</link>
-            <guid isPermaLink="false">851117ac-7c12-4ea3-a614-c661c015cc9c</guid>
-            <pubDate>Fri, 24 Jun 2016 18:24:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
             <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8049e5a-243c-4ce3-bab7-3e87ffcb43e4.jpg"></article>]]></description>
             <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
@@ -75,6 +61,20 @@
             <link>https://youtu.be/rfiMK_ujgDY</link>
             <guid isPermaLink="false">506e4136-1aa5-409d-95cd-37af5dacc012</guid>
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg">]]></description>
+            <link>http://jameskumo.com/86b82d16-f6e4-43e4-8da5-ce91149818e6/index.html</link>
+            <guid isPermaLink="false">86b82d16-f6e4-43e4-8da5-ce91149818e6</guid>
+            <pubDate>Fri, 24 Jun 2016 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KMusic Vol1 Artwork]]></title>
+            <description><![CDATA[<article><h1>KMusic Vol1 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f04561dd-44e3-44df-88fd-ec2c74575cc8.jpg"></article>]]></description>
+            <link>http://jameskumo.com/00bdae91-227f-4935-b7bd-f5681adf8ef5/index.html</link>
+            <guid isPermaLink="false">00bdae91-227f-4935-b7bd-f5681adf8ef5</guid>
+            <pubDate>Fri, 24 Jun 2016 18:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
