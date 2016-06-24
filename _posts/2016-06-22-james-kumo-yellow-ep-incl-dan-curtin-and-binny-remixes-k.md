@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T17:44:15.341Z'
+datePublished: '2016-06-24T17:46:43.447Z'
 sourcePath: _posts/2016-06-22-james-kumo-yellow-ep-incl-dan-curtin-and-binny-remixes-k.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=isI1AUroY4M'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: KMusicRecs
     url: 'https://www.youtube.com/user/KMusicRecs'
     avatar: {}
-dateModified: '2016-06-24T17:44:15.234Z'
+dateModified: '2016-06-24T17:46:43.359Z'
 title: Yellow EP (Incl Dan Curtin & Binny Remixes)
 app_links: []
 publisher:
