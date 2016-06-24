@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-24T14:02:28.785Z'
+datePublished: '2016-06-24T17:56:38.580Z'
 sourcePath: _posts/2016-06-22-electronic-sound-magazine-review.md
 author: []
-dateModified: '2016-06-24T13:33:59.744Z'
+dateModified: '2016-06-24T17:56:17.596Z'
 title: Electronic Sound Magazine Review
 description: ''
 starred: false
