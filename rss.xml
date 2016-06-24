@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 17:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 17:47:06 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cadenza Podcast]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 23 Jun 2016 10:43:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Resident Advisor Artist Page For James Kumo]]></title>
+            <description><![CDATA[<article><h1>Resident Advisor Artist Page For James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
+            <link>https://www.residentadvisor.net/dj/jameskumo</link>
+            <guid isPermaLink="false">851117ac-7c12-4ea3-a614-c661c015cc9c</guid>
+            <pubDate>Fri, 24 Jun 2016 17:46:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yellow EP (Incl Dan Curtin & Binny Remixes)]]></title>
             <description><![CDATA[<article><h1>Yellow EP (Incl Dan Curtin & Binny Remixes)</h1><p>Supported by François Kevorkian, Laurent Garnier, DJ Rolando, Radio Slave, Osunlade, Orde Meikle, Danny Howells, Mr G,  Honey Dijon...and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/154c2f03d6b0e4146f720efdf85d7f31/croprotate.jpg?cropheight=281&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FisI1AUroY4M%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
             <link>https://www.youtube.com/watch?v=isI1AUroY4M</link>
@@ -68,13 +75,6 @@
             <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
             <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
             <pubDate>Fri, 24 Jun 2016 17:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yellow EP (Incl Dan Curtin & Binny Remixes)]]></title>
-            <description><![CDATA[<article><h1>Yellow EP (Incl Dan Curtin & Binny Remixes)</h1><p>Supported by François Kevorkian, Laurent Garnier, DJ Rolando, Radio Slave, Osunlade, Orde Meikle, Danny Howells, Mr G,  Honey Dijon...and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/154c2f03d6b0e4146f720efdf85d7f31/croprotate.jpg?cropheight=281&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FisI1AUroY4M%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=isI1AUroY4M</link>
-            <guid isPermaLink="false">6d038b2c-6b83-4cd9-ac7e-826e93aa6d11</guid>
-            <pubDate>Fri, 24 Jun 2016 17:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
