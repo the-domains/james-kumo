@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 13:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 13:29:51 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[James Kumo on Bandcamp]]></title>
+            <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg"></article>]]></description>
+            <link>https://jameskumo.bandcamp.com</link>
+            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
+            <pubDate>Fri, 24 Jun 2016 13:29:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c60576a-806d-452e-ae1e-23f01b41f046.jpg">]]></description>
@@ -60,7 +67,7 @@
             <description><![CDATA[<article><h1>Worldwide DJ Bookings, contact Fred on info(at)deep-art.net</h1><p>Worldwide DJ Bookings, contact Fred on </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d4564b9-cea6-4a45-b087-fa4529700de8.jpg"></article>]]></description>
             <link>http://jameskumo.com/worldwide-dj-bookings-contact-fred-on-infoatdeep-artnet/index.html</link>
             <guid isPermaLink="false">d688c60e-a21f-49a9-9a52-fd1cdd47247f</guid>
-            <pubDate>Fri, 24 Jun 2016 13:28:58 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2016 13:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Falkplatz Records Berlin Podcast]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice</link>
             <guid isPermaLink="false">aed39d34-8316-4338-82a9-0b9192e210b6</guid>
             <pubDate>Fri, 24 Jun 2016 13:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cadenza Podcast | 223 - James Kumo (Source)]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg" alt="Cadenza Podcast | 223 - Disco, Funk &amp; House">]]></description>
-            <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
-            <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
-            <pubDate>Thu, 23 Jun 2016 21:25:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
