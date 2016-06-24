@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-23T20:55:46.898Z'
+datePublished: '2016-06-24T14:24:58.150Z'
+sourcePath: _posts/2016-06-23-kmusic-podcast-1.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-december-2013-dj'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: James Kumo
     url: 'http://soundcloud.com/james-kumo'
     avatar: {}
-dateModified: '2016-06-23T20:55:30.489Z'
+dateModified: '2016-06-24T14:08:12.834Z'
 title: 'KMusic Podcast #1'
 app_links:
   - type: ios
@@ -53,9 +54,8 @@ publisher:
   domain: soundcloud.com
 description: >-
   Tracks from Redshape, Doomwork, Andreas Saag, Sasse, Quell, Jay West, Zoo
-  Brazil, Vedritunes, James Kumo and more... DJ Bookings - fred@deep-art.net
+  Brazil, Vedritunes, James Kumo...and more. 
 starred: false
-sourcePath: _posts/2016-06-23-kmusic-podcast-1.md
 inFeed: true
 hasPage: false
 inNav: false
