@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T14:28:33.944Z'
+datePublished: '2016-06-24T18:26:40.831Z'
 sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-cycle.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - housejames
 related: []
 author: []
-dateModified: '2016-06-24T14:28:29.122Z'
+dateModified: '2016-06-24T18:26:40.377Z'
 title: ''
 app_links:
   - type: android
@@ -58,7 +58,7 @@ description: >-
   Tracks from Cyspe, Alex Danilov, Call Super, Matthew Oh!, Shinedoe, Artefakt,
   XDB...and more.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
