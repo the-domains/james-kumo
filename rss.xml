@@ -4,15 +4,8 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 18:22:32 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[KMusic Vol1 Artwork]]></title>
-            <description><![CDATA[<article><h1>KMusic Vol1 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f04561dd-44e3-44df-88fd-ec2c74575cc8.jpg"></article>]]></description>
-            <link>http://jameskumo.com/00bdae91-227f-4935-b7bd-f5681adf8ef5/index.html</link>
-            <guid isPermaLink="false">00bdae91-227f-4935-b7bd-f5681adf8ef5</guid>
-            <pubDate>Fri, 24 Jun 2016 18:22:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8586ba7e-9f92-483f-91a9-6780f6ffe33a.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
             <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
             <pubDate>Fri, 24 Jun 2016 18:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f04561dd-44e3-44df-88fd-ec2c74575cc8.jpg">]]></description>
+            <link>http://jameskumo.com/00bdae91-227f-4935-b7bd-f5681adf8ef5/index.html</link>
+            <guid isPermaLink="false">00bdae91-227f-4935-b7bd-f5681adf8ef5</guid>
+            <pubDate>Fri, 24 Jun 2016 18:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
