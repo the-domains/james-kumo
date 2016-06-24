@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T17:43:10.553Z'
+datePublished: '2016-06-24T17:43:29.642Z'
 sourcePath: _posts/2016-06-23-kmusic-podcast-1.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-december-2013-dj'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: James Kumo
     url: 'http://soundcloud.com/james-kumo'
     avatar: {}
-dateModified: '2016-06-24T17:38:35.407Z'
+dateModified: '2016-06-24T17:43:29.404Z'
 title: 'KMusic Podcast #1'
 app_links:
   - type: ios
