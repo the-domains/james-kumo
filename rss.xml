@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 08:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 09:10:40 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
+            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
+            <pubDate>Sun, 26 Jun 2016 09:09:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My choice of studio phones...PHONON 4000’s]]></title>
             <description><![CDATA[<article><h1>My choice of studio phones...PHONON 4000’s</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a91d730-8f27-410f-84ac-fccb674c7663.jpg"></article>]]></description>
@@ -67,14 +74,7 @@
             <description><![CDATA[<article><h1>Walking in Space EPFalkplatz, Berlin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b32beef-9388-4964-bc06-aac6eb8bb84b.jpg"></article>]]></description>
             <link>http://jameskumo.com/79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882/index.html</link>
             <guid isPermaLink="false">79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882</guid>
-            <pubDate>Sun, 26 Jun 2016 08:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
-            <pubDate>Sun, 26 Jun 2016 08:51:41 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 09:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
