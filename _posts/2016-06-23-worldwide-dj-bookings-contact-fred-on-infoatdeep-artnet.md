@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-24T18:27:04.581Z'
+datePublished: '2016-06-26T20:56:20.460Z'
 sourcePath: _posts/2016-06-23-worldwide-dj-bookings-contact-fred-on-infoatdeep-artnet.md
 author: []
-dateModified: '2016-06-24T18:27:04.163Z'
+dateModified: '2016-06-26T20:56:20.176Z'
 title: 'Worldwide DJ Bookings, contact Fred on info(at)deep-art.net'
 description: Electronic Music Agency
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
