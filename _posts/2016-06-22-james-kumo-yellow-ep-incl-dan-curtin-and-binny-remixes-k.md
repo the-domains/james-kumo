@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T18:27:47.003Z'
+datePublished: '2016-06-26T20:56:58.184Z'
 sourcePath: _posts/2016-06-22-james-kumo-yellow-ep-incl-dan-curtin-and-binny-remixes-k.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=isI1AUroY4M'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: KMusicRecs
     url: 'https://www.youtube.com/user/KMusicRecs'
     avatar: {}
-dateModified: '2016-06-24T18:27:46.579Z'
+dateModified: '2016-06-26T20:56:57.640Z'
 title: Yellow EP (Incl Dan Curtin & Binny Remixes)
 app_links: []
 publisher:
@@ -19,7 +19,7 @@ publisher:
 description: >-
   Supported by François Kevorkian, Laurent Garnier, DJ Rolando, Radio Slave,
   Osunlade, Orde Meikle, Danny Howells, Mr G,  Honey Dijon...and more.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
