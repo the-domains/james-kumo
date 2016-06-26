@@ -4,15 +4,8 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 09:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 09:19:07 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
-            <pubDate>Sun, 26 Jun 2016 09:11:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[My choice of studio phones...PHONON 4000’s]]></title>
             <description><![CDATA[<article><h1>My choice of studio phones...PHONON 4000’s</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a91d730-8f27-410f-84ac-fccb674c7663.jpg"></article>]]></description>
@@ -68,6 +61,13 @@
             <link>http://www.mixmag.net/read/james-kumo-reviews</link>
             <guid isPermaLink="false">8955ebe7-4e21-4969-b068-b6871b39060d</guid>
             <pubDate>Thu, 23 Jun 2016 16:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
+            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
+            <pubDate>Sun, 26 Jun 2016 09:19:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walking in Space EPFalkplatz, Berlin]]></title>
