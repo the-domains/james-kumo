@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 08:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 08:52:05 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My choice of studio phones...PHONON 4000’s]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Thu, 23 Jun 2016 16:00:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b32beef-9388-4964-bc06-aac6eb8bb84b.jpg">]]></description>
+            <link>http://jameskumo.com/79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882/index.html</link>
+            <guid isPermaLink="false">79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882</guid>
+            <pubDate>Sun, 26 Jun 2016 08:51:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
             <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
             <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
             <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
             <pubDate>Sun, 26 Jun 2016 08:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electronic Sound Magazine Review]]></title>
-            <description><![CDATA[<article><h1>Electronic Sound Magazine Review</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg"></article>]]></description>
-            <link>http://jameskumo.com/electronic-sound-magazine-review/index.html</link>
-            <guid isPermaLink="false">31450f48-9d40-4718-92ee-a2401bc21b7b</guid>
-            <pubDate>Fri, 24 Jun 2016 18:55:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
