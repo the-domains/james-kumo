@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-26T09:19:03.726Z'
+datePublished: '2016-06-26T20:56:27.736Z'
 sourcePath: _posts/2016-06-26-kumomusic-vol2-artwork.md
 author: []
-dateModified: '2016-06-26T09:19:02.599Z'
+dateModified: '2016-06-26T20:56:26.798Z'
 title: Kumomusic Vol2 Artwork
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
