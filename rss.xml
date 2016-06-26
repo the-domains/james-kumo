@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 20:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 20:57:24 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mixmag Review of Yellow (Dub Mix) ]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Fri, 24 Jun 2016 13:29:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walking Into Space EP]]></title>
-            <description><![CDATA[<article><h1>Walking Into Space EP</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b32beef-9388-4964-bc06-aac6eb8bb84b.jpg"></article>]]></description>
-            <link>http://jameskumo.com/79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882/index.html</link>
-            <guid isPermaLink="false">79e0e6a4-85c8-4b8d-a0db-d00b6ddd9882</guid>
-            <pubDate>Sun, 26 Jun 2016 20:58:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Back At The Rex EP - Curle Recordings]]></title>
             <description><![CDATA[<article><h1>Back At The Rex EP - Curle Recordings</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg"></article>]]></description>
             <link>http://jameskumo.com/86b82d16-f6e4-43e4-8da5-ce91149818e6/index.html</link>
@@ -75,6 +68,13 @@
             <link>http://jameskumo.com/my-choice-of-studio-phonesphonon-4000s/index.html</link>
             <guid isPermaLink="false">cccb0c37-3711-41dc-9369-a3c339a8fc94</guid>
             <pubDate>Sun, 26 Jun 2016 20:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Falkplatz Records Berlin Podcast]]></title>
+            <description><![CDATA[<article><h1>Falkplatz Records Berlin Podcast</h1><p>Podcast mixed and recorded for Berlin based Falkplatz, featuring musicLeonid Nevermind, Quantec, Peter Dundov, David Hausdorf, Martin Buttrich...and more.</p></article>]]></description>
+            <link>https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice</link>
+            <guid isPermaLink="false">35e1fa86-232e-46c8-9fcd-99c518092947</guid>
+            <pubDate>Sun, 26 Jun 2016 20:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
