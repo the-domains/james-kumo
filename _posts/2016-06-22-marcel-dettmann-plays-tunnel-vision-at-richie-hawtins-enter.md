@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-26T20:56:04.795Z'
+datePublished: '2016-06-26T20:56:35.735Z'
 sourcePath: >-
   _posts/2016-06-22-marcel-dettmann-plays-tunnel-vision-at-richie-hawtins-enter.md
 isBasedOnUrl: 'https://youtu.be/rfiMK_ujgDY'
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: 'https://www.youtube.com/user/TheDjorlo'
     avatar: {}
-dateModified: '2016-06-26T20:56:04.350Z'
+dateModified: '2016-06-26T20:56:35.300Z'
 title: >-
   Marcel Dettmann plays James Kumo “Tunnel Vision” at Richie Hawtin’s ENTER
   night, SPACE Ibiza
@@ -20,7 +20,7 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
