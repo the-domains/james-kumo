@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-26T09:09:58.972Z'
+datePublished: '2016-06-26T09:11:00.653Z'
 sourcePath: _posts/2016-06-26-kumomusic-vol2-artwork.md
 author: []
-dateModified: '2016-06-26T09:09:58.149Z'
+dateModified: '2016-06-26T09:10:25.238Z'
 title: Kumomusic Vol2 Artwork
 description: ''
 starred: true
@@ -16,4 +16,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg)
 
-## Kumomusic Vol2 Artwork
+# Kumomusic Vol2 Artwork
