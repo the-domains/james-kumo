@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-24T18:36:42.922Z'
+datePublished: '2016-06-26T20:56:16.103Z'
 author: []
-dateModified: '2016-06-24T18:36:42.605Z'
+dateModified: '2016-06-26T20:56:15.776Z'
 title: My choice of studio phones...PHONON 4000’s
 description: ''
 sourcePath: _posts/2016-06-23-my-choice-of-studio-phonesphonon-4000s.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
