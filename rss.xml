@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 15:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 15:20:06 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
@@ -70,11 +70,11 @@
             <pubDate>Sun, 26 Jun 2016 20:56:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walking In Space EP, Falkplatz Berlin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea07814d-d7ed-4464-9be8-3fd36f1ef5fb.jpg">]]></description>
-            <link>http://jameskumo.com/walking-in-space-ep-falkplatz-berlin/index.html</link>
-            <guid isPermaLink="false">2903d74c-3059-4cbc-ba00-d0d6965c6453</guid>
-            <pubDate>Mon, 27 Jun 2016 15:16:52 GMT</pubDate>
+            <title><![CDATA[Falkplatz Records Berlin Podcast]]></title>
+            <description><![CDATA[<article><h1>Falkplatz Records Berlin Podcast</h1><p>Podcast mixed and recorded for Berlin based Falkplatz, featuring music from Leonid Nevermind, Quantec, Peter Dundov, David Hausdorf, Martin Buttrich...and more.</p></article>]]></description>
+            <link>https://soundcloud.com/james-kumo/james-kumo-falkplatz-noice</link>
+            <guid isPermaLink="false">35e1fa86-232e-46c8-9fcd-99c518092947</guid>
+            <pubDate>Mon, 27 Jun 2016 15:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
