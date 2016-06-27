@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-24T18:26:59.202Z'
+datePublished: '2016-06-27T09:41:13.455Z'
 sourcePath: _posts/2016-06-24-my-electronic-soul-remix.md
 author: []
-dateModified: '2016-06-24T18:22:51.716Z'
+dateModified: '2016-06-27T09:41:13.195Z'
 title: My Electronic Soul Remix
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
