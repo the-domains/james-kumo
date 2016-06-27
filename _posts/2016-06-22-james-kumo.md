@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T09:40:52.601Z'
+datePublished: '2016-06-27T09:49:18.850Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - finest
 related: []
 author: []
-dateModified: '2016-06-27T09:40:52.296Z'
+dateModified: '2016-06-27T09:49:18.360Z'
 title: James Kumo on Bandcamp
 app_links: []
 publisher:
@@ -30,7 +30,7 @@ description: >-
   spinning house and techno at various international clubs, including London,
   New York, Cape Town, Dublin, Manchester and more.
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
