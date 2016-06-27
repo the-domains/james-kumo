@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-26T20:56:12.892Z'
+datePublished: '2016-06-27T09:49:13.418Z'
 sourcePath: _posts/2016-06-23-on-and-on-by-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/track/on-on'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - mix
 related: []
 author: []
-dateModified: '2016-06-26T20:56:12.375Z'
+dateModified: '2016-06-27T09:49:13.011Z'
 title: ''
 app_links: []
 publisher:
@@ -34,7 +34,7 @@ description: >-
   easy flowing techno cuts”Stacey Pullen (Transmat Detroit) - “cool
   thanks”Answer Code Request - “like on & on”
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
