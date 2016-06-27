@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 09:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 09:40:36 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“Coming Home” ]]></title>
+            <description><![CDATA[<article><h1>“Coming Home” </h1><h2>Featured On Cocoon’s Green & Blue Mix CD, by Steve Bug</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8586ba7e-9f92-483f-91a9-6780f6ffe33a.jpg"></article>]]></description>
+            <link>http://jameskumo.com/3d0a0884-1c64-4c23-acd6-420283d9bdb1/index.html</link>
+            <guid isPermaLink="false">3d0a0884-1c64-4c23-acd6-420283d9bdb1</guid>
+            <pubDate>Mon, 27 Jun 2016 09:40:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mixmag Review of Yellow (Dub Mix) ]]></title>
             <description><![CDATA[<article><h1>Mixmag Review of Yellow (Dub Mix) </h1><p>Heads down moodiness from James Kumo as he throws in a nice little dub mix version of 'Yellow'. The original version is way more airy and light, whereas the flip takes its cue from a muted bassline which are completely counteracted by a razor sharp hat.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2968d845-696d-45c6-ad92-13378aa18c0f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/worldwide-dj-bookings-contact-fred-on-infoatdeep-artnet/index.html</link>
             <guid isPermaLink="false">d688c60e-a21f-49a9-9a52-fd1cdd47247f</guid>
             <pubDate>Sun, 26 Jun 2016 20:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My choice of studio phones...PHONON 4000’s]]></title>
-            <description><![CDATA[<article><h1>My choice of studio phones...PHONON 4000’s</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a91d730-8f27-410f-84ac-fccb674c7663.jpg"></article>]]></description>
-            <link>http://jameskumo.com/my-choice-of-studio-phonesphonon-4000s/index.html</link>
-            <guid isPermaLink="false">cccb0c37-3711-41dc-9369-a3c339a8fc94</guid>
-            <pubDate>Sun, 26 Jun 2016 20:56:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
