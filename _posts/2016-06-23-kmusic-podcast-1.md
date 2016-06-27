@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T15:32:17.219Z'
+datePublished: '2016-06-27T15:38:07.557Z'
 sourcePath: _posts/2016-06-23-kmusic-podcast-1.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/james-kumo-december-2013-dj'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: James Kumo
     url: 'http://soundcloud.com/james-kumo'
     avatar: {}
-dateModified: '2016-06-27T15:32:16.433Z'
+dateModified: '2016-06-27T15:38:07.008Z'
 title: 'KMusic Podcast #1'
 app_links:
   - type: ios
@@ -56,7 +56,7 @@ description: >-
   Podcast mixed and recorded for Manchester based KMusic, featuring music from
   Redshape, Doomwork, Andreas Saag, Sasse, Quell, Jay West, Zoo Brazil,
   Vedritunes, James Kumo...and more. 
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
