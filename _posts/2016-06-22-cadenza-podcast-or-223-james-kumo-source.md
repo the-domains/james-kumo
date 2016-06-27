@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T18:20:02.603Z'
+datePublished: '2016-06-27T15:58:22.202Z'
 sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-source.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - falkplatz
 related: []
 author: []
-dateModified: '2016-06-24T18:09:58.414Z'
+dateModified: '2016-06-27T15:58:21.871Z'
 title: ''
 app_links:
   - type: android
@@ -56,7 +56,7 @@ publisher:
   domain: www.mixcloud.com
 description: 'Cadenza Podcast | 223 - Disco, Funk & House'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
