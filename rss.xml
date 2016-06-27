@@ -4,8 +4,22 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 09:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 09:50:05 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
+            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
+            <pubDate>Mon, 27 Jun 2016 09:49:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[James Kumo on Bandcamp]]></title>
+            <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg"></article>]]></description>
+            <link>https://jameskumo.bandcamp.com</link>
+            <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
+            <pubDate>Mon, 27 Jun 2016 09:49:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadenza Podcast]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf4f978-7d59-4139-9c1c-4df08c3276cc.jpg" alt="Cadenza Podcast | 223 - Techno, Tech House">]]></description>
@@ -61,20 +75,6 @@
             <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
             <guid isPermaLink="false">e3c5ad7d-953e-41fd-9925-43cdcd04ec4f</guid>
             <pubDate>Mon, 27 Jun 2016 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tsugi Magazine Paris Podcast]]></title>
-            <description><![CDATA[<article><h1>Tsugi Magazine Paris Podcast</h1><p>Podcast mixed and recorded for Paris based Tsugi magazine, featuring music from Maceo Plex, Shonky, Dan Ghenacia, The Heels Of Love, Federico Gandin, Bonar Bradberry, Todd Terje...and more.</p></article>]]></description>
-            <link>https://soundcloud.com/james-kumo/james-kumo-tsugi-podcast</link>
-            <guid isPermaLink="false">a9236ace-c9a1-427c-9cdb-afd6e8111cda</guid>
-            <pubDate>Mon, 27 Jun 2016 09:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Electronic Soul Remix]]></title>
-            <description><![CDATA[<article><h1>My Electronic Soul Remix</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f4672d-e26d-4225-bb18-5b4645eef35c.jpg"></article>]]></description>
-            <link>http://jameskumo.com/my-electronic-soul-remix/index.html</link>
-            <guid isPermaLink="false">8b992ec0-748c-462a-974e-f5423e5204fa</guid>
-            <pubDate>Mon, 27 Jun 2016 09:41:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
