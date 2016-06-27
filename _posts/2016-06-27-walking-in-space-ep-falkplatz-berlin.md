@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-27T09:39:53.212Z'
+datePublished: '2016-06-27T09:49:58.455Z'
+sourcePath: _posts/2016-06-27-walking-in-space-ep-falkplatz-berlin.md
 author: []
-dateModified: '2016-06-27T09:39:49.828Z'
+dateModified: '2016-06-27T09:49:46.258Z'
 title: 'Walking In Space EP, Falkplatz Berlin'
 description: ''
 starred: false
-sourcePath: _posts/2016-06-27-walking-in-space-ep-falkplatz-berlin.md
 inFeed: true
 hasPage: true
 inNav: false
