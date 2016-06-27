@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-06-27T16:03:31.028Z'
+datePublished: '2016-06-27T16:09:14.024Z'
+sourcePath: _posts/2016-06-27-kmusic-podcast-2-james-kumo-by-james-kumo.md
 isBasedOnUrl: 'https://soundcloud.com/james-kumo/kmusic-podcast-2-james-kumo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-27T16:03:27.372Z'
-title: ''
+dateModified: '2016-06-27T16:09:07.666Z'
+title: 'KMusic Podcast #2'
 app_links:
   - type: ios
     namespace: ai
@@ -53,7 +54,6 @@ description: >-
   Kovyazin D, Matthias Vogt, Kamera, Hiver, Joshua, Antenna, Optimist...and
   more.
 starred: false
-sourcePath: _posts/2016-06-27-kmusic-podcast-2-james-kumo-by-james-kumo.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -62,5 +62,7 @@ _type: AudioObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F216618274%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fjames-kumo%2Fkmusic-podcast-2-james-kumo&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124544720-svdv1a-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+## KMusic Podcast \#2
 
 Podcast mixed and recorded for Manchester based KMusic, featuring music from Kovyazin D, Matthias Vogt, Kamera, Hiver, Joshua, Antenna, Optimist...and more.
