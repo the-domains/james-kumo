@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 15:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 15:24:05 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Walking In Space EP, Falkplatz Berlin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea07814d-d7ed-4464-9be8-3fd36f1ef5fb.jpg">]]></description>
+            <link>http://jameskumo.com/walking-in-space-ep-falkplatz-berlin/index.html</link>
+            <guid isPermaLink="false">2903d74c-3059-4cbc-ba00-d0d6965c6453</guid>
+            <pubDate>Mon, 27 Jun 2016 15:23:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kumomusic Vol2 Artwork]]></title>
             <description><![CDATA[<article><h1>Kumomusic Vol2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/rfiMK_ujgDY</link>
             <guid isPermaLink="false">506e4136-1aa5-409d-95cd-37af5dacc012</guid>
             <pubDate>Sun, 26 Jun 2016 20:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KMusic Podcast #1]]></title>
-            <description><![CDATA[<article><h1>KMusic Podcast #1</h1><p>Podcast mixed and recorded for Manchester based KMusic, featuring music from Redshape, Doomwork, Andreas Saag, Sasse, Quell, Jay West, Zoo Brazil, Vedritunes, James Kumo...and more. </p></article>]]></description>
-            <link>https://soundcloud.com/james-kumo/james-kumo-december-2013-dj</link>
-            <guid isPermaLink="false">cf03f621-72ed-426a-a060-6be38333010d</guid>
-            <pubDate>Mon, 27 Jun 2016 15:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
