@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 09:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 09:49:16 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On & On, by James Kumo]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg">]]></description>
+            <link>https://jameskumo.bandcamp.com/track/on-on</link>
+            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
+            <pubDate>Mon, 27 Jun 2016 09:49:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Back At The Rex EP - Curle Recordings]]></title>
             <description><![CDATA[<article><h1>Back At The Rex EP - Curle Recordings</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ab672f-e190-43c2-984c-41492ed0b401.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jameskumo.com/my-electronic-soul-remix/index.html</link>
             <guid isPermaLink="false">8b992ec0-748c-462a-974e-f5423e5204fa</guid>
             <pubDate>Mon, 27 Jun 2016 09:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resident Advisor Artist Page For James Kumo]]></title>
-            <description><![CDATA[<article><h1>Resident Advisor Artist Page For James Kumo</h1><p>RA: Resident Advisor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523a16-1cd2-42b5-a550-2d8a79304ff2.png"></article>]]></description>
-            <link>https://www.residentadvisor.net/dj/jameskumo</link>
-            <guid isPermaLink="false">851117ac-7c12-4ea3-a614-c661c015cc9c</guid>
-            <pubDate>Mon, 27 Jun 2016 09:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
