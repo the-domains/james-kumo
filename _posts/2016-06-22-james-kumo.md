@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T09:49:18.850Z'
+datePublished: '2016-06-29T08:32:57.455Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - finest
 related: []
 author: []
-dateModified: '2016-06-27T09:49:18.360Z'
+dateModified: '2016-06-29T08:32:48.613Z'
 title: James Kumo on Bandcamp
 app_links: []
 publisher:
@@ -24,10 +24,10 @@ publisher:
   favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
   domain: jameskumo.bandcamp.com
 description: >-
-  DJ, Producer James Kumo has recorded for some of the finest underground
-  electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic
+  DJ, Producer James Kumo has recorded for some of the finest underground 
+  electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic 
   recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years,
-  spinning house and techno at various international clubs, including London,
+  spinning house and techno at various international clubs, including London, 
   New York, Cape Town, Dublin, Manchester and more.
 inLanguage: en
 starred: true
@@ -38,4 +38,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg)
+
+DJ, Producer James Kumo has recorded for some of the finest underground   
+electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic   
+recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London,   
+New York, Cape Town, Dublin, Manchester and more.
