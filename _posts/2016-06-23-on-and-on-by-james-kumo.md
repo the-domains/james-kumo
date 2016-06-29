@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-29T08:32:54.297Z'
+datePublished: '2016-06-29T08:43:17.421Z'
 sourcePath: _posts/2016-06-23-on-and-on-by-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/track/on-on'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - mix
 related: []
 author: []
-dateModified: '2016-06-29T08:30:25.511Z'
+dateModified: '2016-06-29T08:42:56.567Z'
 title: ''
 app_links: []
 publisher:
@@ -24,14 +24,14 @@ publisher:
   favicon: 'https://f4.bcbits.com/img/a1322404557_3.jpg'
   domain: jameskumo.bandcamp.com
 description: >-
-  Len Faki (Berghain / Panorama Bar / Ostgut Ton) - “tick tock is  great! thX
+  Len Faki (Berghain / Panorama Bar / Ostgut Ton) - “tick tock is great! thX
   Len” Truncate - “Deep Breath is real nice!” Alexi Delano (H Productions /
-  Visionquest / M_Nus) - “Love the  'Wild Pitch' style of On & On, will play it
+  Visionquest / M_Nus) - “Love the 'Wild Pitch' style of On & On, will play it
   for sure!!” Ida Engberg (Drumcode) “liking Tick Tock” Eric Cloutier (The
-  Bunker (NYC) - "deep breath" is the fucking bomb,  James! but "tick tock" is a
+  Bunker (NYC) - "deep breath" is the fucking bomb, James! but "tick tock" is a
   sleeper beast that i know i'm going to attack  people with. nice one!!” The
   Black Dog - “Will give these a go for Dogma.” Elliott Dodge (Snapshot Records)
-  - “Great EP, easy flowing  techno cuts” Stacey Pullen (Transmat Detroit) -
+  - “Great EP, easy flowing techno cuts” Stacey Pullen (Transmat Detroit) -
   “cool thanks” Answer Code Request - “like on & on”
 inLanguage: en
 starred: true
@@ -46,17 +46,13 @@ _type: MediaObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Ftrack%3D1455891204%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&amp;url=https%3A%2F%2Fjameskumo.bandcamp.com%2Ftrack%2Fon-on&amp;image=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa1322404557_5.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=bandcamp" width="350" height="467" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-**Len Faki** (Berghain / Panorama Bar / Ostgut Ton) - "_tick tock is _  
-_great! thX Len"_  
+**Len Faki** (Berghain / Panorama Bar / Ostgut Ton) - "_tick tock is great! thX Len"_  
 **Truncate** - "Deep Breath is real nice!"  
-**Alexi Delano** (H Productions / Visionquest / M\_Nus) - "_Love the _  
-_'Wild Pitch' style of On & On, will play it for sure!!"_  
+**Alexi Delano** (H Productions / Visionquest / M\_Nus) - "_Love the 'Wild Pitch' style of On & On, will play it for sure!!"_  
 **Ida Engberg** (Drumcode) "_liking Tick Tock"_  
-**Eric Cloutier** (The Bunker (NYC) - _"deep breath" is the fucking bomb, _  
-_James! but "tick tock" is a sleeper beast that i know i'm going to attack _  
+**Eric Cloutier** (The Bunker (NYC) - _"deep breath" is the fucking bomb, James! but "tick tock" is a sleeper beast that i know i'm going to attack _  
 _people with. nice one!!"_  
 **The Black Dog** - "_Will give these a go for Dogma."_  
-**Elliott Dodge** (Snapshot Records) - "_Great EP, easy flowing _  
-_techno cuts"_  
+**Elliott Dodge** (Snapshot Records) - "_Great EP, easy flowing techno cuts"_  
 **Stacey Pullen** (Transmat Detroit) - "_cool thanks"_  
 **Answer Code Request - **_"like on & on"_
