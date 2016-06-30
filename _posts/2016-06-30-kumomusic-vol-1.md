@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-30T21:04:19.322Z'
+datePublished: '2016-06-30T21:14:42.768Z'
 sourcePath: _posts/2016-06-30-kumomusic-vol-1.md
 author: []
-dateModified: '2016-06-30T21:01:19.088Z'
-title: Kumomusic Vol 1 - Ann Aimee Records
+dateModified: '2016-06-30T21:14:32.044Z'
+title: ''
 description: Available at Delsin Records
 starred: false
 inFeed: true
@@ -15,8 +15,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg)
-
-## Kumomusic Vol 1 - Ann Aimee Records
 
 1. Fluid
 2. 45 Days
