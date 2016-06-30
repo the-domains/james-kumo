@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-30T20:44:25.853Z'
+datePublished: '2016-06-30T21:04:14.521Z'
 sourcePath: _posts/2016-06-26-kumomusic-vol2-artwork.md
 author: []
-dateModified: '2016-06-30T20:39:01.819Z'
-title: 'Kumomusic Vol 2 '
-description: 1. Alphawave 2. Dreams (Tribute to Delsin Mix)
+dateModified: '2016-06-30T21:03:24.794Z'
+title: Kumomusic Vol 2 Artwork
+description: ''
 starred: false
 inFeed: true
 hasPage: true
@@ -16,11 +16,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg)
 
-# Kumomusic Vol 2 
-
-1\. Alphawave  
-2\. Dreams (Tribute to Delsin Mix)
-
-Available at [Delsin Records][0]
-
-[0]: http://www.delsinrecords.com/release/170/james-kumo/kumomusic-vol-2 "James Kumo - Kumomusic Vol 2"
+# Kumomusic Vol 2 Artwork
