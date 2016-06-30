@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 21:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 21:12:59 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kumomusic Vol 2 - Ann Aimee Records]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c2034f3-eb23-4adc-b173-e4433de5b7f8.jpg">]]></description>
+            <link>http://jameskumo.com/kumomusic-vol-2-ann-aimee-records/index.html</link>
+            <guid isPermaLink="false">8edc30fc-2b7a-40ab-bbf8-275a6a2e742e</guid>
+            <pubDate>Thu, 30 Jun 2016 21:12:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On & On, by James Kumo]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c734fe9586fd7c45bd72c1b0029599ef/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg&x=0&y=0">]]></description>
@@ -61,13 +68,6 @@
             <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
             <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
             <pubDate>Thu, 30 Jun 2016 21:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol 2 Artwork]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol 2 Artwork</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bac3d5-7eb8-4ab5-b078-5b67fab3dfee.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol2-artwork/index.html</link>
-            <guid isPermaLink="false">7a4dcd7d-f67a-4dde-8ab6-0d3acebb2c28</guid>
-            <pubDate>Thu, 30 Jun 2016 21:04:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
