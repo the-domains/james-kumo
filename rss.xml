@@ -4,8 +4,15 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 20:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 20:57:48 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kumomusic Vol 1]]></title>
+            <description><![CDATA[<article><h1>Kumomusic Vol 1</h1><p>Available at Delsin Records</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg"></article>]]></description>
+            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
+            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
+            <pubDate>Thu, 30 Jun 2016 20:57:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Walking In Space EP, Falkplatz Berlin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea07814d-d7ed-4464-9be8-3fd36f1ef5fb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/rfiMK_ujgDY</link>
             <guid isPermaLink="false">506e4136-1aa5-409d-95cd-37af5dacc012</guid>
             <pubDate>Sun, 26 Jun 2016 20:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol 1]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol 1</h1><p>Available at Delsin Records</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
-            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
-            <pubDate>Thu, 30 Jun 2016 20:57:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
