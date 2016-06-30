@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 21:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 21:14:45 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kumomusic Vol 2 - Ann Aimee Records]]></title>
@@ -56,18 +56,18 @@
             <pubDate>Sun, 26 Jun 2016 20:57:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kumomusic Vol 1 - Ann Aimee Records]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg">]]></description>
+            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
+            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
+            <pubDate>Thu, 30 Jun 2016 21:14:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tracks by Azoto, Bonny Oliver, Kathy Diamond, Carly Simon, Galaxy 2 Galaxy, Class Action, Roy Ayers...and more.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg">]]></description>
             <link>https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/</link>
             <guid isPermaLink="false">93559972-a15b-4b6f-9a52-0fc348998906</guid>
             <pubDate>Thu, 30 Jun 2016 21:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol 1 - Ann Aimee Records]]></title>
-            <description><![CDATA[<article><h1>Kumomusic Vol 1 - Ann Aimee Records</h1><p>Available at Delsin Records</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg"></article>]]></description>
-            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
-            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
-            <pubDate>Thu, 30 Jun 2016 21:04:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
