@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-30T20:57:46.087Z'
+datePublished: '2016-06-30T20:57:59.737Z'
 author: []
-dateModified: '2016-06-30T20:57:45.494Z'
+dateModified: '2016-06-30T20:57:59.312Z'
 title: Kumomusic Vol 1
 description: Available at Delsin Records
 sourcePath: _posts/2016-06-30-kumomusic-vol-1.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
