@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-30T20:50:52.420Z'
+datePublished: '2016-06-30T20:57:56.690Z'
 sourcePath: _posts/2016-06-27-walking-in-space-ep-falkplatz-berlin.md
 author: []
-dateModified: '2016-06-30T20:48:51.340Z'
+dateModified: '2016-06-30T20:57:55.965Z'
 title: ''
 description: Available at Beatport
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
