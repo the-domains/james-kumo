@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-29T08:43:17.421Z'
+datePublished: '2016-06-30T20:28:21.822Z'
 sourcePath: _posts/2016-06-23-on-and-on-by-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/track/on-on'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - mix
 related: []
 author: []
-dateModified: '2016-06-29T08:42:56.567Z'
+dateModified: '2016-06-30T20:27:49.949Z'
 title: ''
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ description: >-
   Visionquest / M_Nus) - “Love the 'Wild Pitch' style of On & On, will play it
   for sure!!” Ida Engberg (Drumcode) “liking Tick Tock” Eric Cloutier (The
   Bunker (NYC) - "deep breath" is the fucking bomb, James! but "tick tock" is a
-  sleeper beast that i know i'm going to attack  people with. nice one!!” The
+  sleeper beast that i know i'm going to attack people with. nice one!!” The
   Black Dog - “Will give these a go for Dogma.” Elliott Dodge (Snapshot Records)
   - “Great EP, easy flowing techno cuts” Stacey Pullen (Transmat Detroit) -
   “cool thanks” Answer Code Request - “like on & on”
@@ -50,8 +50,7 @@ _type: MediaObject
 **Truncate** - "Deep Breath is real nice!"  
 **Alexi Delano** (H Productions / Visionquest / M\_Nus) - "_Love the 'Wild Pitch' style of On & On, will play it for sure!!"_  
 **Ida Engberg** (Drumcode) "_liking Tick Tock"_  
-**Eric Cloutier** (The Bunker (NYC) - _"deep breath" is the fucking bomb, James! but "tick tock" is a sleeper beast that i know i'm going to attack _  
-_people with. nice one!!"_  
+**Eric Cloutier** (The Bunker (NYC) - _"deep breath" is the fucking bomb, James! but "tick tock" is a sleeper beast that i know i'm going to attack people with. nice one!!"_  
 **The Black Dog** - "_Will give these a go for Dogma."_  
 **Elliott Dodge** (Snapshot Records) - "_Great EP, easy flowing techno cuts"_  
 **Stacey Pullen** (Transmat Detroit) - "_cool thanks"_  
