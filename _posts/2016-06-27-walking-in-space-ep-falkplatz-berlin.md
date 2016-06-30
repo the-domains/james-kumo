@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-30T20:25:55.542Z'
+datePublished: '2016-06-30T20:44:07.735Z'
 sourcePath: _posts/2016-06-27-walking-in-space-ep-falkplatz-berlin.md
 author: []
-dateModified: '2016-06-30T20:25:50.110Z'
+dateModified: '2016-06-30T20:40:55.478Z'
 title: ''
 description: Available on Beatport
 starred: true
@@ -29,4 +29,4 @@ Available on [Beatport][5]
 [2]: https://www.beatport.com/track/trip-trap-original-mix/1943864
 [3]: https://www.beatport.com/track/moon-face-original-mix/1943865
 [4]: https://www.beatport.com/track/moon-face-furesshu-remix/1943866
-[5]: https://www.beatport.com/release/walking-into-space-ep/377252 "Walking In Space EP"
+[5]: https://www.beatport.com/release/walking-into-space-ep/377252 "James Kumo - Walking Into Space"
