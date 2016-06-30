@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-30T20:44:07.735Z'
+datePublished: '2016-06-30T20:50:52.420Z'
 sourcePath: _posts/2016-06-27-walking-in-space-ep-falkplatz-berlin.md
 author: []
-dateModified: '2016-06-30T20:40:55.478Z'
+dateModified: '2016-06-30T20:48:51.340Z'
 title: ''
-description: Available on Beatport
+description: Available at Beatport
 starred: true
 inFeed: true
 hasPage: true
@@ -22,7 +22,7 @@ _type: Article
 4. **[Moon Face][3]**
 5. **[Moon Face Furesshu Remix][4]**
 
-Available on [Beatport][5]
+Available at [Beatport][5]
 
 [0]: https://www.beatport.com/track/walking-into-space-original-mix/1943862
 [1]: https://www.beatport.com/track/walking-into-space-freestyle-man-remix/1943863
