@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-30T21:14:42.768Z'
+datePublished: '2016-07-02T15:46:45.498Z'
 sourcePath: _posts/2016-06-30-kumomusic-vol-1.md
 author: []
-dateModified: '2016-06-30T21:14:32.044Z'
+dateModified: '2016-06-30T21:16:02.151Z'
 title: ''
 description: Available at Delsin Records
 starred: false
