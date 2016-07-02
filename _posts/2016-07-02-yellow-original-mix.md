@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-02T15:59:23.026Z'
+datePublished: '2016-07-02T15:59:35.152Z'
 author: []
-dateModified: '2016-07-02T15:58:08.505Z'
+dateModified: '2016-07-02T15:59:33.542Z'
 title: ''
 description: Yellow (Original Mix)
-starred: false
 sourcePath: _posts/2016-07-02-yellow-original-mix.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
