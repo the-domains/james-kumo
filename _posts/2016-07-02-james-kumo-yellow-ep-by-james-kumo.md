@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T15:50:20.658Z'
+datePublished: '2016-07-02T15:51:07.623Z'
 sourcePath: _posts/2016-07-02-james-kumo-yellow-ep-by-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/album/james-kumo-yellow-ep'
 keywords:
@@ -15,8 +15,8 @@ keywords:
   - track
 related: []
 author: []
-dateModified: '2016-07-02T15:50:15.410Z'
-title: Yellow EP - Buy on Bandcamp
+dateModified: '2016-07-02T15:51:05.777Z'
+title: ''
 app_links: []
 publisher:
   url: 'http://bandcamp.com'
