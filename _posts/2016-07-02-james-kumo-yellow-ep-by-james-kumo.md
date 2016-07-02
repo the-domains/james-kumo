@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T15:46:16.716Z'
+datePublished: '2016-07-02T15:46:33.887Z'
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/album/james-kumo-yellow-ep'
 keywords:
   - kumo
@@ -14,7 +14,7 @@ keywords:
   - track
 related: []
 author: []
-dateModified: '2016-07-02T15:46:09.926Z'
+dateModified: '2016-07-02T15:46:33.343Z'
 title: 'James Kumo - Yellow EP, by James Kumo'
 app_links: []
 publisher:
@@ -24,8 +24,8 @@ publisher:
   domain: jameskumo.bandcamp.com
 description: Buy now at Bandcamp
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-07-02-james-kumo-yellow-ep-by-james-kumo.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
