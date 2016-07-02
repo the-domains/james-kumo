@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 15:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 15:48:29 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[James Kumo - Yellow EP, by James Kumo]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Sun, 26 Jun 2016 20:57:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kumomusic Vol 1 - Ann Aimee Records]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg">]]></description>
+            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
+            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
+            <pubDate>Sat, 02 Jul 2016 15:48:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Walking In Space EP, Falkplatz Berlin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea07814d-d7ed-4464-9be8-3fd36f1ef5fb.jpg">]]></description>
             <link>http://jameskumo.com/walking-in-space-ep-falkplatz-berlin/index.html</link>
             <guid isPermaLink="false">2903d74c-3059-4cbc-ba00-d0d6965c6453</guid>
             <pubDate>Sat, 02 Jul 2016 15:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kumomusic Vol 1 - Ann Aimee Records]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78a08df-10d1-403a-b59d-0caa5c692e5f.jpg">]]></description>
-            <link>http://jameskumo.com/kumomusic-vol-1/index.html</link>
-            <guid isPermaLink="false">307975e6-cf47-4563-9477-6377c7e20eee</guid>
-            <pubDate>Sat, 02 Jul 2016 15:46:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
