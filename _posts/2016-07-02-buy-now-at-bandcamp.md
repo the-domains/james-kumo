@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-02T16:58:58.391Z'
+datePublished: '2016-07-02T17:00:50.186Z'
 sourcePath: _posts/2016-07-02-buy-now-at-bandcamp.md
 author: []
-dateModified: '2016-07-02T16:58:46.883Z'
+dateModified: '2016-07-02T17:00:45.165Z'
 title: ''
 description: Buy now at Bandcamp
 starred: true
@@ -14,6 +14,12 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+1. Yellow (Original Mix)
+2. Yellow (Dub Mix)
+3. Yellow (Dan Curtin Remix)
+4. Yellow (Binny Remix)
+
+Buy now at [Bandcamp][0]
 ![Yellow (Original Mix)
 
 Yellow (Dub Mix)
@@ -24,14 +30,7 @@ Yellow (Binny Remix)
 
 Buy now at Bandcamp](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d809b1fc-b0cd-4abf-bef9-20512e758acf.jpg)
 
-1. Yellow (Original Mix)
-2. Yellow (Dub Mix)
-3. Yellow (Dan Curtin Remix)
-4. Yellow (Binny Remix)
-
-Buy now at [Bandcamp][0]
-
-**François Kevorkian **(Wavemusic/Deep Space NYC) -"Loving the original and Dan Curtin remix!"  
+1. **François Kevorkian **(Wavemusic/Deep Space NYC) -"Loving the original and Dan Curtin remix!"  
 **Laurent Garnier**- "Very cool EP all together"  
 **DJ Rolando **(Underground Resistance/Detroit) - "Dub mix is the one for me, Dope stuff!"  
 **Radio Slave **(Rekids/Berlin) - "Definitely play this!"  
