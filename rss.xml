@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 16:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 16:54:15 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://jameskumo.com/buy-now-at-bandcamp/index.html</link>
             <guid isPermaLink="false">01973b79-d58f-409e-bbe4-0c60509975fc</guid>
             <pubDate>Sat, 02 Jul 2016 16:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On & On, by James Kumo]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c734fe9586fd7c45bd72c1b0029599ef/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg&x=0&y=0">]]></description>
-            <link>https://jameskumo.bandcamp.com/track/on-on</link>
-            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
-            <pubDate>Sat, 02 Jul 2016 16:42:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kumomusic Vol 2 - Ann Aimee Records]]></title>
@@ -61,6 +54,13 @@
             <link>http://www.mixmag.net/read/james-kumo-reviews</link>
             <guid isPermaLink="false">8955ebe7-4e21-4969-b068-b6871b39060d</guid>
             <pubDate>Sun, 26 Jun 2016 20:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On & On, by James Kumo]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c734fe9586fd7c45bd72c1b0029599ef/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg&x=0&y=0">]]></description>
+            <link>https://jameskumo.bandcamp.com/track/on-on</link>
+            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
+            <pubDate>Sat, 02 Jul 2016 16:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kumomusic Vol 1 - Ann Aimee Records]]></title>
