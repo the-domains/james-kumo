@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T20:44:12.056Z'
+datePublished: '2016-07-02T16:42:29.323Z'
 sourcePath: _posts/2016-06-23-on-and-on-by-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com/track/on-on'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - mix
 related: []
 author: []
-dateModified: '2016-06-30T20:31:57.136Z'
+dateModified: '2016-07-02T15:56:19.687Z'
 title: ''
 app_links: []
 publisher:
