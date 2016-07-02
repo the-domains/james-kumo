@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-02T16:52:24.171Z'
+datePublished: '2016-07-02T16:58:58.391Z'
 sourcePath: _posts/2016-07-02-buy-now-at-bandcamp.md
 author: []
-dateModified: '2016-07-02T16:52:22.310Z'
+dateModified: '2016-07-02T16:58:46.883Z'
 title: ''
 description: Buy now at Bandcamp
 starred: true
@@ -14,7 +14,15 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d809b1fc-b0cd-4abf-bef9-20512e758acf.jpg)
+![Yellow (Original Mix)
+
+Yellow (Dub Mix)
+
+Yellow (Dan Curtin Remix)
+
+Yellow (Binny Remix)
+
+Buy now at Bandcamp](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d809b1fc-b0cd-4abf-bef9-20512e758acf.jpg)
 
 1. Yellow (Original Mix)
 2. Yellow (Dub Mix)
