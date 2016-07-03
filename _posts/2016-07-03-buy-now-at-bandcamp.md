@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-03T07:41:01.924Z'
+datePublished: '2016-07-03T07:41:13.799Z'
 author: []
-dateModified: '2016-07-03T07:40:54.739Z'
+dateModified: '2016-07-03T07:41:12.877Z'
 title: ''
 description: Buy now at Bandcamp
-starred: false
 sourcePath: _posts/2016-07-03-buy-now-at-bandcamp.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
