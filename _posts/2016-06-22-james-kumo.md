@@ -1,36 +1,35 @@
 ---
-datePublished: '2016-06-29T09:05:32.413Z'
+datePublished: '2016-07-03T09:39:33.165Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
-isBasedOnUrl: 'https://jameskumo.bandcamp.com'
+isBasedOnUrl: 'http://www.mixmag.net/read/james-kumo-reviews'
 keywords:
-  - metamorphic
-  - falkplatz
+  - throbs
   - kumo
-  - kmusic
-  - techno
-  - aimee
-  - curtin
-  - dublin
-  - curle
-  - finest
+  - bassline
+  - analogue
+  - version
+  - airy
+  - jangly
+  - sheen
+  - cascading
+  - counteracted
 related: []
 author: []
-dateModified: '2016-06-29T09:05:29.093Z'
-title: James Kumo on Bandcamp
+dateModified: '2016-07-03T09:39:32.700Z'
+title: 'Mixmag Review of Yellow (Dub Mix) '
 app_links: []
 publisher:
-  url: 'https://jameskumo.bandcamp.com'
-  name: James Kumo
-  favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
-  domain: jameskumo.bandcamp.com
+  url: 'http://www.mixmag.net'
+  name: Mixmag
+  favicon: 'http://www.mixmag.net/favicon.ico'
+  domain: www.mixmag.net
 description: >-
-  DJ, Producer James Kumo has recorded for some of the finest underground
-  electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic
-  recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years,
-  spinning house and techno at various international clubs, including London,
-  New York, Cape Town, Dublin, Manchester and more.
+  Heads down moodiness from James Kumo as he throws in a nice little dub mix
+  version of 'Yellow'. The original version is way more airy and light, whereas
+  the flip takes its cue from a muted bassline which are completely counteracted
+  by a razor sharp hat.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,6 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg)
-
-DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.
+![Heads down moodiness from James Kumo as he throws in a nice little dub mix version of 'Yellow'. The original version is way more airy and light, whereas the flip takes its cue from a muted bassline which are completely counteracted by a razor sharp hat.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2968d845-696d-45c6-ad92-13378aa18c0f.jpg)
