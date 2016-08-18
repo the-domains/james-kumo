@@ -13,22 +13,22 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6577061
-  brandStrength: 0.8243728
-  lightness: 0.5860215
+  saturation: 0.7293907
+  brandStrength: 1
+  lightness: 0.483871
   brandColors:
     - '#230924'
     - '#F7F4D5'
     - '#46303D'
     - '#B4A797'
     - '#826055'
-  rhythmicContrast: 0.4910394
+  rhythmicContrast: 0.811828
 typography_spectrum: 0
 description: DJ / Producer / Label Owner
+layout_spectrum: 0.7383512
+analytics:
+  google: UA-79787653-1
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-analytics:
-  google: UA-79787653-1
-layout_spectrum: 0.7383512
