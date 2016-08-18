@@ -1,5 +1,5 @@
 title: James Kumo
-name: James Kumo
+layout_spectrum: 0.7383512
 collections:
   - index:
       path: /
@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.4121864
   brandStrength: 1
-  lightness: 0.7114695
+  lightness: 0.8476703
   brandColors:
     - '#230924'
     - '#F7F4D5'
@@ -31,4 +31,4 @@ navigation:
     type: content
 analytics:
   google: UA-79787653-1
-layout_spectrum: 0.7383512
+name: James Kumo
