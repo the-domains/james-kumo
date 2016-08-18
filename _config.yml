@@ -14,9 +14,5 @@ layout_spectrum: 0.6415477057453245
 analytics:
   google: UA-79787653-1
 name: James Kumo
-navigation:
-  - name: Bookings
-    url: 'http://jameskumo.com'
-    type: external
 title: James Kumo
 description: DJ / Producer / Label Owner
