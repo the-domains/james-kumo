@@ -1,27 +1,28 @@
 title: James Kumo
+layout_spectrum: 0.8620217172428966
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2168459
+  saturation: 1
   brandStrength: 0.5698925
-  lightness: 0.437276
+  lightness: 1
   brandColors:
     - '#230924'
     - '#F7F4D5'
     - '#46303D'
     - '#B4A797'
     - '#826055'
-  rhythmicContrast: 0.8136201
+  rhythmicContrast: 0
 typography_spectrum: 0.1294813791755587
 description: DJ / Producer / Label Owner
 navigation:
@@ -30,5 +31,4 @@ navigation:
     type: content
 analytics:
   google: UA-79787653-1
-layout_spectrum: 0.8620217172428966
 name: James Kumo
