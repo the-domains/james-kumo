@@ -1,5 +1,6 @@
 title: James Kumo
-name: James Kumo
+analytics:
+  google: UA-79787653-1
 collections:
   - index:
       path: /
@@ -29,6 +30,5 @@ navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-layout_spectrum: 0.09318996
-analytics:
-  google: UA-79787653-1
+layout_spectrum: 0.1971326
+name: James Kumo
