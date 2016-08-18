@@ -1,5 +1,4 @@
 title: James Kumo
-name: James Kumo
 collections:
   - index:
       path: /
@@ -13,22 +12,23 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7258065
+  saturation: 0.4283154
   brandStrength: 0
-  lightness: 0.7401434
+  lightness: 0.3189964
   brandColors:
     - '#230924'
     - '#F7F4D5'
     - '#46303D'
     - '#B4A797'
     - '#826055'
-  rhythmicContrast: 0.3781362
+  rhythmicContrast: 0.6164874
 typography_spectrum: 0
 description: DJ / Producer / Label Owner
 layout_spectrum: 0.4892473
+analytics:
+  google: UA-79787653-1
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-analytics:
-  google: UA-79787653-1
+name: James Kumo
