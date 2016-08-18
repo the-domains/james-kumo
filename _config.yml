@@ -1,22 +1,21 @@
 title: James Kumo
-analytics:
-  google: UA-79787653-1
+layout_spectrum: 0.7383512
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8198208
   brandStrength: 0.5500468446407467
-  lightness: 0.4767025
+  lightness: 0.5573477
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
@@ -30,5 +29,6 @@ navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-layout_spectrum: 0.7383512
+analytics:
+  google: UA-79787653-1
 name: James Kumo
