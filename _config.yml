@@ -1,8 +1,22 @@
-typography_spectrum: 0.5469662148971111
+title: James Kumo
+analytics:
+  google: UA-79787653-1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8198208
   brandStrength: 0.5500468446407467
-  lightness: 0.5573477
+  lightness: 0.6953405
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
@@ -10,32 +24,11 @@ color:
     - '#3D588F'
     - '#C7CAD1'
   rhythmicContrast: 0.4318996
-layout_spectrum: 0.7383512
-analytics:
-  google: UA-79787653-1
-name: James Kumo
-style: taylor
+typography_spectrum: 0.5469662148971111
+description: DJ / Producer / Label Owner
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-  - name: Resident Advisor
-    id: 851117ac-7c12-4ea3-a614-c661c015cc9c
-    type: content
-  - name: Twitter
-    id: 6dbc2d14-5dee-4cd9-bd83-8da9d23aa820
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: // DJ & Producer //
-description: 'Manchester, UK'
+layout_spectrum: 0.7383512
+name: James Kumo
