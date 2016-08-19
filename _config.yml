@@ -1,6 +1,23 @@
-title: James Kumo
+typography_spectrum: 0.5469662148971111
+color:
+  saturation: 0.688172
+  brandStrength: 0.4605735
+  lightness: 0.4390681
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+  rhythmicContrast: 0.5089605
+layout_spectrum: 0.5860215
 analytics:
   google: UA-79787653-1
+name: James Kumo
+navigation:
+  - name: DJ Bookings
+    id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
+    type: content
 collections:
   - index:
       path: /
@@ -13,22 +30,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.688172
-  brandStrength: 0.4605735
-  lightness: 0.4390681
-  brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
-  rhythmicContrast: 0.5089605
-typography_spectrum: 0.5469662148971111
+title: ''
 description: DJ / Producer / Label Owner
-navigation:
-  - name: DJ Bookings
-    id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
-    type: content
-layout_spectrum: 0.5860215
-name: James Kumo
