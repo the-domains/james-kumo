@@ -1,6 +1,5 @@
 title: ''
-analytics:
-  google: UA-79787653-1
+name: James Kumo
 collections:
   - index:
       path: /
@@ -14,9 +13,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.265233
-  brandStrength: 0.6397849
-  lightness: 0.4551971
+  saturation: 0.7311828
+  brandStrength: 0.7706093
+  lightness: 0.7258065
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
@@ -26,9 +25,10 @@ color:
   rhythmicContrast: 0.5519713
 typography_spectrum: 0.4032258
 description: ''
+layout_spectrum: 0.1505376
+analytics:
+  google: UA-79787653-1
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-layout_spectrum: 0.05734767
-name: James Kumo
