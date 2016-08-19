@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-19T17:14:53.854Z'
+datePublished: '2016-08-19T17:15:14.683Z'
 sourcePath: _posts/2016-06-22-the-latest-tweets-from-james-kumo-jameskumo-dj-produc.md
-isBasedOnUrl: 'https://twitter.com/JamesKumo'
 keywords:
   - jameskumo
   - kumo
@@ -29,7 +28,7 @@ author:
         - - 234
           - 245
           - 246
-dateModified: '2016-06-22T07:13:15.309Z'
+dateModified: '2016-08-19T17:15:14.255Z'
 title: On Twitter!
 app_links:
   - path: >-
@@ -37,19 +36,15 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-publisher:
-  url: 'https://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+publisher: {}
 description: >-
   The latest Tweets from James Kumo (@JamesKumo). DJ // Producer. MANAGEMENT
   info@deep-art.net. Manchester, England
 inLanguage: en
+via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: on-twitter/index.html
 _context: 'http://schema.org'
 _type: Comment
 
