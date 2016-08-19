@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.688172
   brandStrength: 0.5500468446407467
-  lightness: 0.7724015
+  lightness: 0.6684588
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
@@ -25,10 +25,10 @@ color:
   rhythmicContrast: 0.4318996
 typography_spectrum: 0.5469662148971111
 description: DJ / Producer / Label Owner
+layout_spectrum: 0.8763441
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
 analytics:
   google: UA-79787653-1
-layout_spectrum: 0.7383512
