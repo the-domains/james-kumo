@@ -1,6 +1,5 @@
 title: ''
-analytics:
-  google: UA-79787653-1
+name: James Kumo
 collections:
   - index:
       path: /
@@ -26,9 +25,10 @@ color:
   rhythmicContrast: 0.3853047
 typography_spectrum: 0.5469662148971111
 description: ''
-layout_spectrum: 0.8082438
+layout_spectrum: 0.1863799
+analytics:
+  google: UA-79787653-1
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-name: James Kumo
