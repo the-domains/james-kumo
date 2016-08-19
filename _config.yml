@@ -1,28 +1,28 @@
 title: ''
-name: James Kumo
+layout_spectrum: 0.2329749
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.702509
   brandStrength: 0.6397849
-  lightness: 0.7222222
+  rhythmicContrast: 0.3853047
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-  rhythmicContrast: 0.3853047
+  lightness: 0.7222222
 typography_spectrum: 0.4032258
 description: ''
 navigation:
@@ -31,4 +31,4 @@ navigation:
     type: content
 analytics:
   google: UA-79787653-1
-layout_spectrum: 0.4498208
+name: James Kumo
