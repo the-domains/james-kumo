@@ -24,6 +24,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/JamesKumo'
     type: external
+  - name: Resident Advisor
+    url: 'https://www.residentadvisor.net/dj/jameskumo'
+    type: external
 collections:
   - index:
       path: /
