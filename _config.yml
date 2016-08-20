@@ -1,3 +1,16 @@
+layout_spectrum: 0.5653226128779352
+typography_spectrum: 0.5192525379825383
+color:
+  saturation: 0.2899674465879798
+  brandStrength: 0.07676653191447258
+  lightness: 0.9761721033137292
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  rhythmicContrast: 0.2972743979189545
 title: ''
 name: James Kumo
 collections:
@@ -12,18 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8566308
-  brandStrength: 0.9032258
-  lightness: 0.3530466
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.6792115
-typography_spectrum: 0.1684588
 description: ''
 navigation:
   - name: DJ Bookings
@@ -43,4 +44,3 @@ navigation:
     type: external
 analytics:
   google: UA-79787653-1
-layout_spectrum: 0.3602151
