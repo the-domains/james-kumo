@@ -1,4 +1,30 @@
 title: ''
+name: James Kumo
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.8333333
+  brandStrength: 0.4820789
+  lightness: 0.5232975
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.646503
+typography_spectrum: 0
+description: ''
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
@@ -9,32 +35,6 @@ navigation:
   - name: Twitter
     id: 6dbc2d14-5dee-4cd9-bd83-8da9d23aa820
     type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.2632612753659487
-  brandStrength: 0.4820789
-  lightness: 0.2570846839807928
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.6465029788669199
-typography_spectrum: 0.5760566091630608
-description: ''
-layout_spectrum: 0.7991984630934894
 analytics:
   google: UA-79787653-1
-name: James Kumo
+layout_spectrum: 0.7991984630934894
