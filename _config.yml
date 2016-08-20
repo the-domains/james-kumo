@@ -1,30 +1,30 @@
-layout_spectrum: 0.357328716898337
-typography_spectrum: 0.39354861760511994
-color:
-  saturation: 0.2727669451851398
-  brandStrength: 0.6142022872809321
-  lightness: 0.07616909220814705
-  brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-  rhythmicContrast: 0.9939880110323429
 title: ''
-name: James Kumo
+analytics:
+  google: UA-79787653-1
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.2727669451851398
+  brandStrength: 0.6142022872809321
+  rhythmicContrast: 0.9939880110323429
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  lightness: 0.07616909220814705
+typography_spectrum: 0.3935486176051199
 description: ''
 navigation:
   - name: DJ Bookings
@@ -42,5 +42,5 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/james_kumo/?hl=en'
     type: external
-analytics:
-  google: UA-79787653-1
+layout_spectrum: 0.5788531
+name: James Kumo
