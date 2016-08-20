@@ -1,30 +1,30 @@
 title: ''
+name: James Kumo
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.2727669451851398
-  brandStrength: 1
-  lightness: 0.07616909220814705
+  saturation: 0.6702509
+  brandStrength: 0.188172
+  lightness: 0.2580645
   brandColors:
     - '#D8CAA8'
     - '#5C832F'
     - '#284907'
     - '#382513'
     - '#363942'
-  rhythmicContrast: 0.9939880110323429
+  rhythmicContrast: 0.562724
 typography_spectrum: 0.3935486176051199
 description: ''
-layout_spectrum: 0.7060932
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
@@ -43,4 +43,4 @@ navigation:
     type: external
 analytics:
   google: UA-79787653-1
-name: James Kumo
+layout_spectrum: 0.7060932
