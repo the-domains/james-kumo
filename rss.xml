@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 22:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 22:34:12 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Yellow EP (Including Dan Curtin & Binny Remixes) - OUT NOW]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Mon, 27 Jun 2016 09:49:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On & On, by James Kumo]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c734fe9586fd7c45bd72c1b0029599ef/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg&x=0&y=0">]]></description>
+            <link>https://jameskumo.bandcamp.com/track/on-on</link>
+            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
+            <pubDate>Fri, 19 Aug 2016 22:34:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[James Kumo on Bandcamp]]></title>
             <description><![CDATA[<article><h1>James Kumo on Bandcamp</h1><p>DJ, Producer James Kumo has recorded for some of the finest underground electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic recordings, Curle & KMusic to name a few. He has also DJ'd for over 20 years, spinning house and techno at various international clubs, including London, New York, Cape Town, Dublin, Manchester and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5264752e-8407-4b75-bf43-e28b38668812.jpg"></article>]]></description>
             <link>https://jameskumo.bandcamp.com</link>
@@ -61,13 +68,6 @@
             <link>http://jameskumo.com/3d0a0884-1c64-4c23-acd6-420283d9bdb1/index.html</link>
             <guid isPermaLink="false">3d0a0884-1c64-4c23-acd6-420283d9bdb1</guid>
             <pubDate>Sun, 03 Jul 2016 09:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On & On, by James Kumo]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c734fe9586fd7c45bd72c1b0029599ef/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e6e5a38-9d01-45f9-bae9-bae1e0e133d4.jpg&x=0&y=0">]]></description>
-            <link>https://jameskumo.bandcamp.com/track/on-on</link>
-            <guid isPermaLink="false">06015618-795b-4c4c-972f-4ed5dcafe28a</guid>
-            <pubDate>Sat, 02 Jul 2016 16:54:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
