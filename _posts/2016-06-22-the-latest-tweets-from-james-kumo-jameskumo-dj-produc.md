@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T17:41:55.737Z'
+datePublished: '2016-08-19T22:30:58.250Z'
 sourcePath: _posts/2016-06-22-the-latest-tweets-from-james-kumo-jameskumo-dj-produc.md
 keywords:
   - jameskumo
@@ -28,7 +28,7 @@ author:
         - - 234
           - 245
           - 246
-dateModified: '2016-08-19T17:41:55.229Z'
+dateModified: '2016-08-19T22:30:57.719Z'
 title: On Twitter!
 app_links:
   - path: >-
