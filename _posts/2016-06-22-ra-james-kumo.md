@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T17:41:39.568Z'
+datePublished: '2016-08-19T22:30:35.325Z'
 sourcePath: _posts/2016-06-22-ra-james-kumo.md
 keywords: []
 related: []
 author: []
-dateModified: '2016-08-19T17:41:39.099Z'
+dateModified: '2016-08-19T22:30:34.834Z'
 title: Resident Advisor Artist Page For James Kumo
 app_links: []
 publisher:
