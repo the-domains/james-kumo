@@ -27,6 +27,9 @@ navigation:
   - name: Resident Advisor
     url: 'https://www.residentadvisor.net/dj/jameskumo'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/james_kumo/?hl=en'
+    type: external
 collections:
   - index:
       path: /
