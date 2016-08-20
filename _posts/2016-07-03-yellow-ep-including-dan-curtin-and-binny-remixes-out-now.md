@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T22:36:29.534Z'
+datePublished: '2016-08-19T22:46:59.460Z'
 sourcePath: _posts/2016-07-03-yellow-ep-including-dan-curtin-and-binny-remixes-out-now.md
 author: []
 via: {}
-dateModified: '2016-08-19T22:36:29.081Z'
+dateModified: '2016-08-19T22:46:59.091Z'
 title: Yellow EP (Including Dan Curtin & Binny Remixes) - OUT NOW
 publisher: {}
 description: Buy now at Bandcamp
