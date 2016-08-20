@@ -18,9 +18,6 @@ navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-  - name: Resident Advisor
-    id: 851117ac-7c12-4ea3-a614-c661c015cc9c
-    type: content
   - name: Facebook
     url: 'https://www.facebook.com/james.kumo/'
     type: external
