@@ -1,16 +1,16 @@
-layout_spectrum: 0.5653226128779352
-typography_spectrum: 0.5192525379825383
+layout_spectrum: 0.357328716898337
+typography_spectrum: 0.39354861760511994
 color:
-  saturation: 0.2899674465879798
-  brandStrength: 0.07676653191447258
-  lightness: 0.9761721033137292
+  saturation: 0.2727669451851398
+  brandStrength: 0.6142022872809321
+  lightness: 0.07616909220814705
   brandColors:
     - '#D8CAA8'
     - '#5C832F'
     - '#284907'
     - '#382513'
     - '#363942'
-  rhythmicContrast: 0.2972743979189545
+  rhythmicContrast: 0.9939880110323429
 title: ''
 name: James Kumo
 collections:
