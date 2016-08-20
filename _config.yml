@@ -21,9 +21,6 @@ navigation:
   - name: Resident Advisor
     id: 851117ac-7c12-4ea3-a614-c661c015cc9c
     type: content
-  - name: Twitter
-    id: 6dbc2d14-5dee-4cd9-bd83-8da9d23aa820
-    type: content
   - name: Facebook
     url: 'https://www.facebook.com/james.kumo/'
     type: external
