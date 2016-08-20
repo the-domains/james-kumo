@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-03T09:39:48.335Z'
+datePublished: '2016-08-19T22:39:56.298Z'
 sourcePath: _posts/2016-06-22-james-kumo.md
 isBasedOnUrl: 'https://jameskumo.bandcamp.com'
 keywords:
@@ -15,14 +15,10 @@ keywords:
   - finest
 related: []
 author: []
-dateModified: '2016-07-03T09:39:48.023Z'
+dateModified: '2016-08-19T22:39:55.768Z'
 title: James Kumo on Bandcamp
 app_links: []
-publisher:
-  url: 'https://jameskumo.bandcamp.com'
-  name: James Kumo
-  favicon: 'https://s4.bcbits.com/img/bc_favicon.ico'
-  domain: jameskumo.bandcamp.com
+publisher: {}
 description: >-
   DJ, Producer James Kumo has recorded for some of the finest underground
   electronic music labels, Ann Aimee, Falkplatz, Dan Curtin's Metamorphic
@@ -30,6 +26,7 @@ description: >-
   spinning house and techno at various international clubs, including London,
   New York, Cape Town, Dublin, Manchester and more.
 inLanguage: en
+via: {}
 starred: false
 inFeed: true
 hasPage: false
