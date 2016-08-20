@@ -1,19 +1,20 @@
 title: ''
-name: James Kumo
+analytics:
+  google: UA-79787653-1
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.1272401
+  saturation: 1
   brandStrength: 0
   lightness: 0.1684588
   brandColors:
@@ -42,5 +43,4 @@ navigation:
     url: 'https://www.instagram.com/james_kumo/?hl=en'
     type: external
 layout_spectrum: 0
-analytics:
-  google: UA-79787653-1
+name: James Kumo
