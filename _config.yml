@@ -5,30 +5,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2921147
-  brandStrength: 0.7956989
-  lightness: 0.4982079
+  saturation: 0.7383512
+  brandStrength: 0.6630824
+  lightness: 0.5179211
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-  rhythmicContrast: 0.6935484
+  rhythmicContrast: 0.5268817
 typography_spectrum: 0.2150538
 description: ''
+layout_spectrum: 0.5716846
+analytics:
+  google: UA-79787653-1
 navigation:
   - name: DJ Bookings
     id: d688c60e-a21f-49a9-9a52-fd1cdd47247f
     type: content
-analytics:
-  google: UA-79787653-1
-layout_spectrum: 0.8351254
 name: James Kumo
