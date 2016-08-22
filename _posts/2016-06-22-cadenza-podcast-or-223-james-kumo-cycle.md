@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-22T18:54:19.130Z'
+datePublished: '2016-08-22T18:59:17.661Z'
+sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-cycle.md
 author: []
 via: {}
 metadata:
@@ -59,15 +60,15 @@ metadata:
   publisher: {}
   description: ''
   inLanguage: en
-dateModified: '2016-08-22T18:54:18.478Z'
+dateModified: '2016-08-22T18:59:17.030Z'
 title: ''
 id: f09a45a1-6f60-4f29-b93a-5bdfd66f3208
 publisher: {}
 description: >-
   Featuring music from Matthew Oh!, Shindoe, Fred P, Call Super, Artefakt, XDB
   and more.
+isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/'
 starred: true
-sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-cycle.md
 inFeed: true
 hasPage: false
 inNav: false
