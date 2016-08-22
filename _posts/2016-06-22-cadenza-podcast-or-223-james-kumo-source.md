@@ -1,66 +1,84 @@
 ---
-datePublished: '2016-06-30T21:05:46.546Z'
-sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-source.md
-isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-keywords:
-  - cadenza
-  - podcasts
-  - music
-  - likely12345678910very
-  - labels
-  - metamorphic
-  - chart
-  - sub-label
-  - autoreply
-  - falkplatz
-related: []
-author: []
-dateModified: '2016-06-30T21:05:46.023Z'
+id: 93559972-a15b-4b6f-9a52-0fc348998906
+metadata:
+  id: 93559972-a15b-4b6f-9a52-0fc348998906
+  metadata:
+    datePublished: '2016-06-30T21:05:46.546Z'
+    sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-source.md
+    isBasedOnUrl: >-
+      https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/
+    keywords:
+      - cadenza
+      - podcasts
+      - music
+      - likely12345678910very
+      - labels
+      - metamorphic
+      - chart
+      - sub-label
+      - autoreply
+      - falkplatz
+    related: []
+    author: []
+    '@context': 'http://schema.org'
+    dateModified: '2016-06-30T21:05:46.546Z'
+    title: ''
+    '@type': MediaObject
+    app_links:
+      - type: android
+        app_name: Mixcloud
+        namespace: ai
+        app_store_id: '401206431'
+        package: com.mixcloud.player
+      - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
+        type: ios
+        namespace: ai
+        app_name: Mixcloud
+      - url: 'mc://mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
+        type: android
+        namespace: ai
+      - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
+        namespace: twitter
+        type: ipad
+        name: Mixcloud
+        id: '401206431'
+      - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
+        namespace: twitter
+        type: iphone
+        name: Mixcloud
+        id: '401206431'
+      - url: 'mc://mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
+        namespace: twitter
+        type: googleplay
+        name: Mixcloud
+        id: com.mixcloud.player
+      - path: >-
+          http/www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/
+        package: com.mixcloud.player
+        namespace: google
+        type: android
+    publisher:
+      url: 'https://www.mixcloud.com'
+      name: Mixcloud
+      favicon: 'https://www.mixcloud.com/media/images/www/global/favicon-64.png'
+      domain: www.mixcloud.com
+    description: 'Cadenza Podcast | 223 - Disco, Funk & House'
+    inLanguage: en
+  dateModified: '2016-08-20T09:40:08.386Z'
+dateModified: '2016-08-22T19:01:31.820Z'
 title: ''
-app_links:
-  - type: android
-    app_name: Mixcloud
-    namespace: ai
-    app_store_id: '401206431'
-    package: com.mixcloud.player
-  - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-    type: ios
-    namespace: ai
-    app_name: Mixcloud
-  - url: 'mc://mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-    type: android
-    namespace: ai
-  - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-    namespace: twitter
-    type: ipad
-    name: Mixcloud
-    id: '401206431'
-  - url: 'mc://CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-    namespace: twitter
-    type: iphone
-    name: Mixcloud
-    id: '401206431'
-  - url: 'mc://mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/'
-    namespace: twitter
-    type: googleplay
-    name: Mixcloud
-    id: com.mixcloud.player
-  - path: http/www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-source/
-    package: com.mixcloud.player
-    namespace: google
-    type: android
-publisher:
-  url: 'https://www.mixcloud.com'
-  name: Mixcloud
-  favicon: 'https://www.mixcloud.com/media/images/www/global/favicon-64.png'
-  domain: www.mixcloud.com
-description: 'Cadenza Podcast | 223 - Disco, Funk & House'
-inLanguage: en
+datePublished: '2016-08-22T19:01:32.329Z'
+author: []
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d4a1dd-43a4-426f-ac06-4edbbdf903d7.jpg
+description: ''
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-06-22-cadenza-podcast-or-223-james-kumo-source.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
