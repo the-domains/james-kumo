@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T19:17:54.841Z'
+datePublished: '2016-08-22T19:19:17.508Z'
 sourcePath: _posts/2016-08-22-cadenza-podcast-or-223-james-kumo-cycle.md
 isBasedOnUrl: 'https://www.mixcloud.com/CadenzaMusic/cadenza-podcast-223-james-kumo-cycle/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.mixcloud.com/CadenzaMusic/'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T19:17:46.536Z'
+dateModified: '2016-08-22T19:19:16.959Z'
 title: ''
 app_links:
   - type: android
@@ -53,12 +53,8 @@ app_links:
     package: com.mixcloud.player
     namespace: google
     type: android
-publisher:
-  url: 'https://www.mixcloud.com'
-  name: Mixcloud
-  favicon: 'https://www.mixcloud.com/media/images/www/global/favicon-64.png'
-  domain: www.mixcloud.com
-description: ''
+publisher: {}
+description: Cadenza Podcast
 inLanguage: en
 starred: false
 inFeed: true
@@ -68,6 +64,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f10ab187-b7fd-4303-b22a-77af95334289.jpg)
+Cadenza Podcast
+![Featuring music from Matthew Oh!, Shinedoe, XDB, Artefakt, Fred P and more...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f10ab187-b7fd-4303-b22a-77af95334289.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.mixcloud.com%2Fwidget%2Fiframe%2F%3Ffeed%3Dhttps%253A%252F%252Fwww.mixcloud.com%252FCadenzaMusic%252Fcadenza-podcast-223-james-kumo-cycle%252F%26hide_cover%3D1&amp;url=https%3A%2F%2Fwww.mixcloud.com%2FCadenzaMusic%2Fcadenza-podcast-223-james-kumo-cycle%2F&amp;image=https%3A%2F%2Fthumbnailer.mixcloud.com%2Funsafe%2F600x600%2Fextaudio%2F7%2F0%2Fa%2Fb%2F6fbc-d4e3-48d4-b9e5-4a9ea3590952&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=mixcloud" width="None" height="120" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
