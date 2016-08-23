@@ -4,7 +4,7 @@
         <description><![CDATA[James Kumo]]></description>
         <link>http://jameskumo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 19:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 19:38:05 GMT</lastBuildDate>
         <atom:link href="http://jameskumo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marcel Dettmann plays James Kumo “Tunnel Vision” at Richie Hawtin’s ENTER night, SPACE Ibiza]]></title>
@@ -61,6 +61,13 @@
             <link>https://jameskumo.bandcamp.com</link>
             <guid isPermaLink="false">54efd1f2-5249-4477-96f7-aa7f8275d490</guid>
             <pubDate>Tue, 23 Aug 2016 19:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electronic Sound Magazine Review]]></title>
+            <description><![CDATA[<article><h1>Electronic Sound Magazine Review</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa0fe2e-5e01-4c6e-b2d2-b857df68b48a.jpg</link>
+            <guid isPermaLink="false">31450f48-9d40-4718-92ee-a2401bc21b7b</guid>
+            <pubDate>Tue, 23 Aug 2016 19:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
